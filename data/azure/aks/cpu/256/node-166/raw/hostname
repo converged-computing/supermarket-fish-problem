@@ -1,0 +1,3 @@
+63.343s: job.exception type=exec severity=0 rank 0 exited and exit-timeout=30s has expired
+flux-job: task(s) exited with exit code 1
+flux-sample-119

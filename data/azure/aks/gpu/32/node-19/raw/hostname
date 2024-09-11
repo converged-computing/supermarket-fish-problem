@@ -1,0 +1,3 @@
+0.072s: flux-shell[0]: ERROR: cpu-affinity: affinity: core1 not in topology
+0.072s: flux-shell[0]:  WARN: cpu-affinity: unable to get cpuset for cores 0-39. Disabling affinity
+flux-sample-25

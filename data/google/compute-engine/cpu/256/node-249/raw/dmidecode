@@ -1,0 +1,4 @@
+# dmidecode 3.3
+/sys/firmware/dmi/tables/smbios_entry_point: Permission denied
+/dev/mem: Permission denied
+Scanning /dev/mem for entry point.
