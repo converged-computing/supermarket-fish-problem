@@ -1,0 +1,5284 @@
+{
+    "gallery": [
+        {
+            "id": 0,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-0/raw/machine.svg"
+        },
+        {
+            "id": 1,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-243/raw/machine.svg"
+        },
+        {
+            "id": 2,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-206/raw/machine.svg"
+        },
+        {
+            "id": 3,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-200/raw/machine.svg"
+        },
+        {
+            "id": 4,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-211/raw/machine.svg"
+        },
+        {
+            "id": 5,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-197/raw/machine.svg"
+        },
+        {
+            "id": 6,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-164/raw/machine.svg"
+        },
+        {
+            "id": 7,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-53/raw/machine.svg"
+        },
+        {
+            "id": 8,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-150/raw/machine.svg"
+        },
+        {
+            "id": 9,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-66/raw/machine.svg"
+        },
+        {
+            "id": 10,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-134/raw/machine.svg"
+        },
+        {
+            "id": 11,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-15/raw/machine.svg"
+        },
+        {
+            "id": 12,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-163/raw/machine.svg"
+        },
+        {
+            "id": 13,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-147/raw/machine.svg"
+        },
+        {
+            "id": 14,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-233/raw/machine.svg"
+        },
+        {
+            "id": 15,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-3/raw/machine.svg"
+        },
+        {
+            "id": 16,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-93/raw/machine.svg"
+        },
+        {
+            "id": 17,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-54/raw/machine.svg"
+        },
+        {
+            "id": 18,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-110/raw/machine.svg"
+        },
+        {
+            "id": 19,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-236/raw/machine.svg"
+        },
+        {
+            "id": 20,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-173/raw/machine.svg"
+        },
+        {
+            "id": 21,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-232/raw/machine.svg"
+        },
+        {
+            "id": 22,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-133/raw/machine.svg"
+        },
+        {
+            "id": 23,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-237/raw/machine.svg"
+        },
+        {
+            "id": 24,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-2/raw/machine.svg"
+        },
+        {
+            "id": 25,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-209/raw/machine.svg"
+        },
+        {
+            "id": 26,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-126/raw/machine.svg"
+        },
+        {
+            "id": 27,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-201/raw/machine.svg"
+        },
+        {
+            "id": 28,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-170/raw/machine.svg"
+        },
+        {
+            "id": 29,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-86/raw/machine.svg"
+        },
+        {
+            "id": 30,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-202/raw/machine.svg"
+        },
+        {
+            "id": 31,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-214/raw/machine.svg"
+        },
+        {
+            "id": 32,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-179/raw/machine.svg"
+        },
+        {
+            "id": 33,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-23/raw/machine.svg"
+        },
+        {
+            "id": 34,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-10/raw/machine.svg"
+        },
+        {
+            "id": 35,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-151/raw/machine.svg"
+        },
+        {
+            "id": 36,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-97/raw/machine.svg"
+        },
+        {
+            "id": 37,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-219/raw/machine.svg"
+        },
+        {
+            "id": 38,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-196/raw/machine.svg"
+        },
+        {
+            "id": 39,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-8/raw/machine.svg"
+        },
+        {
+            "id": 40,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-159/raw/machine.svg"
+        },
+        {
+            "id": 41,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-20/raw/machine.svg"
+        },
+        {
+            "id": 42,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-220/raw/machine.svg"
+        },
+        {
+            "id": 43,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-247/raw/machine.svg"
+        },
+        {
+            "id": 44,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-238/raw/machine.svg"
+        },
+        {
+            "id": 45,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-207/raw/machine.svg"
+        },
+        {
+            "id": 46,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-48/raw/machine.svg"
+        },
+        {
+            "id": 47,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-184/raw/machine.svg"
+        },
+        {
+            "id": 48,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-122/raw/machine.svg"
+        },
+        {
+            "id": 49,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-175/raw/machine.svg"
+        },
+        {
+            "id": 50,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-106/raw/machine.svg"
+        },
+        {
+            "id": 51,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-79/raw/machine.svg"
+        },
+        {
+            "id": 52,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-104/raw/machine.svg"
+        },
+        {
+            "id": 53,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-14/raw/machine.svg"
+        },
+        {
+            "id": 54,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-112/raw/machine.svg"
+        },
+        {
+            "id": 55,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-138/raw/machine.svg"
+        },
+        {
+            "id": 56,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-7/raw/machine.svg"
+        },
+        {
+            "id": 57,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-146/raw/machine.svg"
+        },
+        {
+            "id": 58,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-205/raw/machine.svg"
+        },
+        {
+            "id": 59,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-171/raw/machine.svg"
+        },
+        {
+            "id": 60,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-102/raw/machine.svg"
+        },
+        {
+            "id": 61,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-167/raw/machine.svg"
+        },
+        {
+            "id": 62,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-140/raw/machine.svg"
+        },
+        {
+            "id": 63,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-224/raw/machine.svg"
+        },
+        {
+            "id": 64,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-129/raw/machine.svg"
+        },
+        {
+            "id": 65,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-56/raw/machine.svg"
+        },
+        {
+            "id": 66,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-51/raw/machine.svg"
+        },
+        {
+            "id": 67,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-50/raw/machine.svg"
+        },
+        {
+            "id": 68,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-40/raw/machine.svg"
+        },
+        {
+            "id": 69,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-61/raw/machine.svg"
+        },
+        {
+            "id": 70,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-18/raw/machine.svg"
+        },
+        {
+            "id": 71,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-166/raw/machine.svg"
+        },
+        {
+            "id": 72,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-114/raw/machine.svg"
+        },
+        {
+            "id": 73,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-180/raw/machine.svg"
+        },
+        {
+            "id": 74,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-116/raw/machine.svg"
+        },
+        {
+            "id": 75,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-58/raw/machine.svg"
+        },
+        {
+            "id": 76,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-37/raw/machine.svg"
+        },
+        {
+            "id": 77,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-185/raw/machine.svg"
+        },
+        {
+            "id": 78,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-142/raw/machine.svg"
+        },
+        {
+            "id": 79,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-225/raw/machine.svg"
+        },
+        {
+            "id": 80,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-124/raw/machine.svg"
+        },
+        {
+            "id": 81,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-176/raw/machine.svg"
+        },
+        {
+            "id": 82,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-107/raw/machine.svg"
+        },
+        {
+            "id": 83,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-71/raw/machine.svg"
+        },
+        {
+            "id": 84,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-145/raw/machine.svg"
+        },
+        {
+            "id": 85,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-105/raw/machine.svg"
+        },
+        {
+            "id": 86,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-17/raw/machine.svg"
+        },
+        {
+            "id": 87,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-161/raw/machine.svg"
+        },
+        {
+            "id": 88,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-155/raw/machine.svg"
+        },
+        {
+            "id": 89,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-39/raw/machine.svg"
+        },
+        {
+            "id": 90,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-119/raw/machine.svg"
+        },
+        {
+            "id": 91,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-65/raw/machine.svg"
+        },
+        {
+            "id": 92,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-156/raw/machine.svg"
+        },
+        {
+            "id": 93,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-120/raw/machine.svg"
+        },
+        {
+            "id": 94,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-21/raw/machine.svg"
+        },
+        {
+            "id": 95,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-31/raw/machine.svg"
+        },
+        {
+            "id": 96,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-203/raw/machine.svg"
+        },
+        {
+            "id": 97,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-190/raw/machine.svg"
+        },
+        {
+            "id": 98,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-22/raw/machine.svg"
+        },
+        {
+            "id": 99,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-117/raw/machine.svg"
+        },
+        {
+            "id": 100,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-89/raw/machine.svg"
+        },
+        {
+            "id": 101,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-195/raw/machine.svg"
+        },
+        {
+            "id": 102,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-68/raw/machine.svg"
+        },
+        {
+            "id": 103,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-84/raw/machine.svg"
+        },
+        {
+            "id": 104,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-215/raw/machine.svg"
+        },
+        {
+            "id": 105,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-249/raw/machine.svg"
+        },
+        {
+            "id": 106,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-123/raw/machine.svg"
+        },
+        {
+            "id": 107,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-169/raw/machine.svg"
+        },
+        {
+            "id": 108,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-165/raw/machine.svg"
+        },
+        {
+            "id": 109,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-157/raw/machine.svg"
+        },
+        {
+            "id": 110,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-128/raw/machine.svg"
+        },
+        {
+            "id": 111,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-83/raw/machine.svg"
+        },
+        {
+            "id": 112,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-76/raw/machine.svg"
+        },
+        {
+            "id": 113,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-182/raw/machine.svg"
+        },
+        {
+            "id": 114,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-44/raw/machine.svg"
+        },
+        {
+            "id": 115,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-25/raw/machine.svg"
+        },
+        {
+            "id": 116,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-174/raw/machine.svg"
+        },
+        {
+            "id": 117,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-186/raw/machine.svg"
+        },
+        {
+            "id": 118,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-103/raw/machine.svg"
+        },
+        {
+            "id": 119,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-191/raw/machine.svg"
+        },
+        {
+            "id": 120,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-251/raw/machine.svg"
+        },
+        {
+            "id": 121,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-210/raw/machine.svg"
+        },
+        {
+            "id": 122,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-85/raw/machine.svg"
+        },
+        {
+            "id": 123,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-57/raw/machine.svg"
+        },
+        {
+            "id": 124,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-192/raw/machine.svg"
+        },
+        {
+            "id": 125,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-125/raw/machine.svg"
+        },
+        {
+            "id": 126,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-101/raw/machine.svg"
+        },
+        {
+            "id": 127,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-230/raw/machine.svg"
+        },
+        {
+            "id": 128,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-33/raw/machine.svg"
+        },
+        {
+            "id": 129,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-38/raw/machine.svg"
+        },
+        {
+            "id": 130,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-46/raw/machine.svg"
+        },
+        {
+            "id": 131,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-121/raw/machine.svg"
+        },
+        {
+            "id": 132,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-235/raw/machine.svg"
+        },
+        {
+            "id": 133,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-27/raw/machine.svg"
+        },
+        {
+            "id": 134,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-181/raw/machine.svg"
+        },
+        {
+            "id": 135,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-213/raw/machine.svg"
+        },
+        {
+            "id": 136,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-92/raw/machine.svg"
+        },
+        {
+            "id": 137,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-227/raw/machine.svg"
+        },
+        {
+            "id": 138,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-144/raw/machine.svg"
+        },
+        {
+            "id": 139,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-42/raw/machine.svg"
+        },
+        {
+            "id": 140,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-127/raw/machine.svg"
+        },
+        {
+            "id": 141,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-154/raw/machine.svg"
+        },
+        {
+            "id": 142,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-231/raw/machine.svg"
+        },
+        {
+            "id": 143,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-32/raw/machine.svg"
+        },
+        {
+            "id": 144,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-81/raw/machine.svg"
+        },
+        {
+            "id": 145,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-52/raw/machine.svg"
+        },
+        {
+            "id": 146,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-45/raw/machine.svg"
+        },
+        {
+            "id": 147,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-47/raw/machine.svg"
+        },
+        {
+            "id": 148,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-63/raw/machine.svg"
+        },
+        {
+            "id": 149,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-108/raw/machine.svg"
+        },
+        {
+            "id": 150,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-11/raw/machine.svg"
+        },
+        {
+            "id": 151,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-111/raw/machine.svg"
+        },
+        {
+            "id": 152,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-95/raw/machine.svg"
+        },
+        {
+            "id": 153,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-1/raw/machine.svg"
+        },
+        {
+            "id": 154,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-94/raw/machine.svg"
+        },
+        {
+            "id": 155,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-141/raw/machine.svg"
+        },
+        {
+            "id": 156,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-204/raw/machine.svg"
+        },
+        {
+            "id": 157,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-153/raw/machine.svg"
+        },
+        {
+            "id": 158,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-12/raw/machine.svg"
+        },
+        {
+            "id": 159,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-99/raw/machine.svg"
+        },
+        {
+            "id": 160,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-19/raw/machine.svg"
+        },
+        {
+            "id": 161,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-73/raw/machine.svg"
+        },
+        {
+            "id": 162,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-113/raw/machine.svg"
+        },
+        {
+            "id": 163,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-88/raw/machine.svg"
+        },
+        {
+            "id": 164,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-183/raw/machine.svg"
+        },
+        {
+            "id": 165,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-72/raw/machine.svg"
+        },
+        {
+            "id": 166,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-136/raw/machine.svg"
+        },
+        {
+            "id": 167,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-80/raw/machine.svg"
+        },
+        {
+            "id": 168,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-248/raw/machine.svg"
+        },
+        {
+            "id": 169,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-62/raw/machine.svg"
+        },
+        {
+            "id": 170,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-34/raw/machine.svg"
+        },
+        {
+            "id": 171,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-194/raw/machine.svg"
+        },
+        {
+            "id": 172,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-254/raw/machine.svg"
+        },
+        {
+            "id": 173,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-132/raw/machine.svg"
+        },
+        {
+            "id": 174,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-43/raw/machine.svg"
+        },
+        {
+            "id": 175,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-109/raw/machine.svg"
+        },
+        {
+            "id": 176,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-137/raw/machine.svg"
+        },
+        {
+            "id": 177,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-242/raw/machine.svg"
+        },
+        {
+            "id": 178,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-82/raw/machine.svg"
+        },
+        {
+            "id": 179,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-217/raw/machine.svg"
+        },
+        {
+            "id": 180,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-255/raw/machine.svg"
+        },
+        {
+            "id": 181,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-223/raw/machine.svg"
+        },
+        {
+            "id": 182,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-244/raw/machine.svg"
+        },
+        {
+            "id": 183,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-245/raw/machine.svg"
+        },
+        {
+            "id": 184,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-6/raw/machine.svg"
+        },
+        {
+            "id": 185,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-29/raw/machine.svg"
+        },
+        {
+            "id": 186,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-78/raw/machine.svg"
+        },
+        {
+            "id": 187,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-35/raw/machine.svg"
+        },
+        {
+            "id": 188,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-148/raw/machine.svg"
+        },
+        {
+            "id": 189,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-250/raw/machine.svg"
+        },
+        {
+            "id": 190,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-98/raw/machine.svg"
+        },
+        {
+            "id": 191,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-253/raw/machine.svg"
+        },
+        {
+            "id": 192,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-118/raw/machine.svg"
+        },
+        {
+            "id": 193,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-91/raw/machine.svg"
+        },
+        {
+            "id": 194,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-67/raw/machine.svg"
+        },
+        {
+            "id": 195,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-143/raw/machine.svg"
+        },
+        {
+            "id": 196,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-26/raw/machine.svg"
+        },
+        {
+            "id": 197,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-74/raw/machine.svg"
+        },
+        {
+            "id": 198,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-41/raw/machine.svg"
+        },
+        {
+            "id": 199,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-188/raw/machine.svg"
+        },
+        {
+            "id": 200,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-87/raw/machine.svg"
+        },
+        {
+            "id": 201,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-246/raw/machine.svg"
+        },
+        {
+            "id": 202,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-16/raw/machine.svg"
+        },
+        {
+            "id": 203,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-168/raw/machine.svg"
+        },
+        {
+            "id": 204,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-240/raw/machine.svg"
+        },
+        {
+            "id": 205,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-189/raw/machine.svg"
+        },
+        {
+            "id": 206,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-9/raw/machine.svg"
+        },
+        {
+            "id": 207,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-24/raw/machine.svg"
+        },
+        {
+            "id": 208,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-5/raw/machine.svg"
+        },
+        {
+            "id": 209,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-131/raw/machine.svg"
+        },
+        {
+            "id": 210,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-162/raw/machine.svg"
+        },
+        {
+            "id": 211,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-135/raw/machine.svg"
+        },
+        {
+            "id": 212,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-241/raw/machine.svg"
+        },
+        {
+            "id": 213,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-222/raw/machine.svg"
+        },
+        {
+            "id": 214,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-55/raw/machine.svg"
+        },
+        {
+            "id": 215,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-49/raw/machine.svg"
+        },
+        {
+            "id": 216,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-149/raw/machine.svg"
+        },
+        {
+            "id": 217,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-152/raw/machine.svg"
+        },
+        {
+            "id": 218,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-30/raw/machine.svg"
+        },
+        {
+            "id": 219,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-193/raw/machine.svg"
+        },
+        {
+            "id": 220,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-218/raw/machine.svg"
+        },
+        {
+            "id": 221,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-234/raw/machine.svg"
+        },
+        {
+            "id": 222,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-28/raw/machine.svg"
+        },
+        {
+            "id": 223,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-187/raw/machine.svg"
+        },
+        {
+            "id": 224,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-177/raw/machine.svg"
+        },
+        {
+            "id": 225,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-221/raw/machine.svg"
+        },
+        {
+            "id": 226,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-178/raw/machine.svg"
+        },
+        {
+            "id": 227,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-239/raw/machine.svg"
+        },
+        {
+            "id": 228,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-90/raw/machine.svg"
+        },
+        {
+            "id": 229,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-212/raw/machine.svg"
+        },
+        {
+            "id": 230,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-36/raw/machine.svg"
+        },
+        {
+            "id": 231,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-77/raw/machine.svg"
+        },
+        {
+            "id": 232,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-13/raw/machine.svg"
+        },
+        {
+            "id": 233,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-64/raw/machine.svg"
+        },
+        {
+            "id": 234,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-60/raw/machine.svg"
+        },
+        {
+            "id": 235,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-96/raw/machine.svg"
+        },
+        {
+            "id": 236,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-115/raw/machine.svg"
+        },
+        {
+            "id": 237,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-158/raw/machine.svg"
+        },
+        {
+            "id": 238,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-100/raw/machine.svg"
+        },
+        {
+            "id": 239,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-199/raw/machine.svg"
+        },
+        {
+            "id": 240,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-4/raw/machine.svg"
+        },
+        {
+            "id": 241,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-229/raw/machine.svg"
+        },
+        {
+            "id": 242,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-69/raw/machine.svg"
+        },
+        {
+            "id": 243,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-252/raw/machine.svg"
+        },
+        {
+            "id": 244,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-226/raw/machine.svg"
+        },
+        {
+            "id": 245,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-198/raw/machine.svg"
+        },
+        {
+            "id": 246,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-139/raw/machine.svg"
+        },
+        {
+            "id": 247,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-172/raw/machine.svg"
+        },
+        {
+            "id": 248,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-208/raw/machine.svg"
+        },
+        {
+            "id": 249,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-228/raw/machine.svg"
+        },
+        {
+            "id": 250,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-216/raw/machine.svg"
+        },
+        {
+            "id": 251,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-160/raw/machine.svg"
+        },
+        {
+            "id": 252,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-59/raw/machine.svg"
+        },
+        {
+            "id": 253,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-130/raw/machine.svg"
+        },
+        {
+            "id": 254,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-70/raw/machine.svg"
+        },
+        {
+            "id": 255,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/256/node-75/raw/machine.svg"
+        },
+        {
+            "id": 256,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-0/raw/machine.svg"
+        },
+        {
+            "id": 257,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-15/raw/machine.svg"
+        },
+        {
+            "id": 258,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-3/raw/machine.svg"
+        },
+        {
+            "id": 259,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-2/raw/machine.svg"
+        },
+        {
+            "id": 260,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-23/raw/machine.svg"
+        },
+        {
+            "id": 261,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-10/raw/machine.svg"
+        },
+        {
+            "id": 262,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-8/raw/machine.svg"
+        },
+        {
+            "id": 263,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-20/raw/machine.svg"
+        },
+        {
+            "id": 264,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-14/raw/machine.svg"
+        },
+        {
+            "id": 265,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-7/raw/machine.svg"
+        },
+        {
+            "id": 266,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-18/raw/machine.svg"
+        },
+        {
+            "id": 267,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-17/raw/machine.svg"
+        },
+        {
+            "id": 268,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-21/raw/machine.svg"
+        },
+        {
+            "id": 269,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-31/raw/machine.svg"
+        },
+        {
+            "id": 270,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-22/raw/machine.svg"
+        },
+        {
+            "id": 271,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-25/raw/machine.svg"
+        },
+        {
+            "id": 272,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-27/raw/machine.svg"
+        },
+        {
+            "id": 273,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-11/raw/machine.svg"
+        },
+        {
+            "id": 274,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-1/raw/machine.svg"
+        },
+        {
+            "id": 275,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-12/raw/machine.svg"
+        },
+        {
+            "id": 276,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-19/raw/machine.svg"
+        },
+        {
+            "id": 277,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-6/raw/machine.svg"
+        },
+        {
+            "id": 278,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-29/raw/machine.svg"
+        },
+        {
+            "id": 279,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-26/raw/machine.svg"
+        },
+        {
+            "id": 280,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-16/raw/machine.svg"
+        },
+        {
+            "id": 281,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-9/raw/machine.svg"
+        },
+        {
+            "id": 282,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-24/raw/machine.svg"
+        },
+        {
+            "id": 283,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-5/raw/machine.svg"
+        },
+        {
+            "id": 284,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-30/raw/machine.svg"
+        },
+        {
+            "id": 285,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-28/raw/machine.svg"
+        },
+        {
+            "id": 286,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-13/raw/machine.svg"
+        },
+        {
+            "id": 287,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/32/node-4/raw/machine.svg"
+        },
+        {
+            "id": 288,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-0/raw/machine.svg"
+        },
+        {
+            "id": 289,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-53/raw/machine.svg"
+        },
+        {
+            "id": 290,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-66/raw/machine.svg"
+        },
+        {
+            "id": 291,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-15/raw/machine.svg"
+        },
+        {
+            "id": 292,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-3/raw/machine.svg"
+        },
+        {
+            "id": 293,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-93/raw/machine.svg"
+        },
+        {
+            "id": 294,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-54/raw/machine.svg"
+        },
+        {
+            "id": 295,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-110/raw/machine.svg"
+        },
+        {
+            "id": 296,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-2/raw/machine.svg"
+        },
+        {
+            "id": 297,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-126/raw/machine.svg"
+        },
+        {
+            "id": 298,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-86/raw/machine.svg"
+        },
+        {
+            "id": 299,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-23/raw/machine.svg"
+        },
+        {
+            "id": 300,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-10/raw/machine.svg"
+        },
+        {
+            "id": 301,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-97/raw/machine.svg"
+        },
+        {
+            "id": 302,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-8/raw/machine.svg"
+        },
+        {
+            "id": 303,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-20/raw/machine.svg"
+        },
+        {
+            "id": 304,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-48/raw/machine.svg"
+        },
+        {
+            "id": 305,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-122/raw/machine.svg"
+        },
+        {
+            "id": 306,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-106/raw/machine.svg"
+        },
+        {
+            "id": 307,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-79/raw/machine.svg"
+        },
+        {
+            "id": 308,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-104/raw/machine.svg"
+        },
+        {
+            "id": 309,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-14/raw/machine.svg"
+        },
+        {
+            "id": 310,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-112/raw/machine.svg"
+        },
+        {
+            "id": 311,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-7/raw/machine.svg"
+        },
+        {
+            "id": 312,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-102/raw/machine.svg"
+        },
+        {
+            "id": 313,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-56/raw/machine.svg"
+        },
+        {
+            "id": 314,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-51/raw/machine.svg"
+        },
+        {
+            "id": 315,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-50/raw/machine.svg"
+        },
+        {
+            "id": 316,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-40/raw/machine.svg"
+        },
+        {
+            "id": 317,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-61/raw/machine.svg"
+        },
+        {
+            "id": 318,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-18/raw/machine.svg"
+        },
+        {
+            "id": 319,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-114/raw/machine.svg"
+        },
+        {
+            "id": 320,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-116/raw/machine.svg"
+        },
+        {
+            "id": 321,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-58/raw/machine.svg"
+        },
+        {
+            "id": 322,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-37/raw/machine.svg"
+        },
+        {
+            "id": 323,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-124/raw/machine.svg"
+        },
+        {
+            "id": 324,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-107/raw/machine.svg"
+        },
+        {
+            "id": 325,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-71/raw/machine.svg"
+        },
+        {
+            "id": 326,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-105/raw/machine.svg"
+        },
+        {
+            "id": 327,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-17/raw/machine.svg"
+        },
+        {
+            "id": 328,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-39/raw/machine.svg"
+        },
+        {
+            "id": 329,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-119/raw/machine.svg"
+        },
+        {
+            "id": 330,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-65/raw/machine.svg"
+        },
+        {
+            "id": 331,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-120/raw/machine.svg"
+        },
+        {
+            "id": 332,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-21/raw/machine.svg"
+        },
+        {
+            "id": 333,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-31/raw/machine.svg"
+        },
+        {
+            "id": 334,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-22/raw/machine.svg"
+        },
+        {
+            "id": 335,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-117/raw/machine.svg"
+        },
+        {
+            "id": 336,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-89/raw/machine.svg"
+        },
+        {
+            "id": 337,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-68/raw/machine.svg"
+        },
+        {
+            "id": 338,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-84/raw/machine.svg"
+        },
+        {
+            "id": 339,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-123/raw/machine.svg"
+        },
+        {
+            "id": 340,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-83/raw/machine.svg"
+        },
+        {
+            "id": 341,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-76/raw/machine.svg"
+        },
+        {
+            "id": 342,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-44/raw/machine.svg"
+        },
+        {
+            "id": 343,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-25/raw/machine.svg"
+        },
+        {
+            "id": 344,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-103/raw/machine.svg"
+        },
+        {
+            "id": 345,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-85/raw/machine.svg"
+        },
+        {
+            "id": 346,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-57/raw/machine.svg"
+        },
+        {
+            "id": 347,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-125/raw/machine.svg"
+        },
+        {
+            "id": 348,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-101/raw/machine.svg"
+        },
+        {
+            "id": 349,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-33/raw/machine.svg"
+        },
+        {
+            "id": 350,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-38/raw/machine.svg"
+        },
+        {
+            "id": 351,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-46/raw/machine.svg"
+        },
+        {
+            "id": 352,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-121/raw/machine.svg"
+        },
+        {
+            "id": 353,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-27/raw/machine.svg"
+        },
+        {
+            "id": 354,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-92/raw/machine.svg"
+        },
+        {
+            "id": 355,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-42/raw/machine.svg"
+        },
+        {
+            "id": 356,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-127/raw/machine.svg"
+        },
+        {
+            "id": 357,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-32/raw/machine.svg"
+        },
+        {
+            "id": 358,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-81/raw/machine.svg"
+        },
+        {
+            "id": 359,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-52/raw/machine.svg"
+        },
+        {
+            "id": 360,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-45/raw/machine.svg"
+        },
+        {
+            "id": 361,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-47/raw/machine.svg"
+        },
+        {
+            "id": 362,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-63/raw/machine.svg"
+        },
+        {
+            "id": 363,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-108/raw/machine.svg"
+        },
+        {
+            "id": 364,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-11/raw/machine.svg"
+        },
+        {
+            "id": 365,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-111/raw/machine.svg"
+        },
+        {
+            "id": 366,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-95/raw/machine.svg"
+        },
+        {
+            "id": 367,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-1/raw/machine.svg"
+        },
+        {
+            "id": 368,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-94/raw/machine.svg"
+        },
+        {
+            "id": 369,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-12/raw/machine.svg"
+        },
+        {
+            "id": 370,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-99/raw/machine.svg"
+        },
+        {
+            "id": 371,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-19/raw/machine.svg"
+        },
+        {
+            "id": 372,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-73/raw/machine.svg"
+        },
+        {
+            "id": 373,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-113/raw/machine.svg"
+        },
+        {
+            "id": 374,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-88/raw/machine.svg"
+        },
+        {
+            "id": 375,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-72/raw/machine.svg"
+        },
+        {
+            "id": 376,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-80/raw/machine.svg"
+        },
+        {
+            "id": 377,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-62/raw/machine.svg"
+        },
+        {
+            "id": 378,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-34/raw/machine.svg"
+        },
+        {
+            "id": 379,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-43/raw/machine.svg"
+        },
+        {
+            "id": 380,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-109/raw/machine.svg"
+        },
+        {
+            "id": 381,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-82/raw/machine.svg"
+        },
+        {
+            "id": 382,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-6/raw/machine.svg"
+        },
+        {
+            "id": 383,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-29/raw/machine.svg"
+        },
+        {
+            "id": 384,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-78/raw/machine.svg"
+        },
+        {
+            "id": 385,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-35/raw/machine.svg"
+        },
+        {
+            "id": 386,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-98/raw/machine.svg"
+        },
+        {
+            "id": 387,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-118/raw/machine.svg"
+        },
+        {
+            "id": 388,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-91/raw/machine.svg"
+        },
+        {
+            "id": 389,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-67/raw/machine.svg"
+        },
+        {
+            "id": 390,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-26/raw/machine.svg"
+        },
+        {
+            "id": 391,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-74/raw/machine.svg"
+        },
+        {
+            "id": 392,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-41/raw/machine.svg"
+        },
+        {
+            "id": 393,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-87/raw/machine.svg"
+        },
+        {
+            "id": 394,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-16/raw/machine.svg"
+        },
+        {
+            "id": 395,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-9/raw/machine.svg"
+        },
+        {
+            "id": 396,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-24/raw/machine.svg"
+        },
+        {
+            "id": 397,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-5/raw/machine.svg"
+        },
+        {
+            "id": 398,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-55/raw/machine.svg"
+        },
+        {
+            "id": 399,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-49/raw/machine.svg"
+        },
+        {
+            "id": 400,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-30/raw/machine.svg"
+        },
+        {
+            "id": 401,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-28/raw/machine.svg"
+        },
+        {
+            "id": 402,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-90/raw/machine.svg"
+        },
+        {
+            "id": 403,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-36/raw/machine.svg"
+        },
+        {
+            "id": 404,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-77/raw/machine.svg"
+        },
+        {
+            "id": 405,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-13/raw/machine.svg"
+        },
+        {
+            "id": 406,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-64/raw/machine.svg"
+        },
+        {
+            "id": 407,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-60/raw/machine.svg"
+        },
+        {
+            "id": 408,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-96/raw/machine.svg"
+        },
+        {
+            "id": 409,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-115/raw/machine.svg"
+        },
+        {
+            "id": 410,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-100/raw/machine.svg"
+        },
+        {
+            "id": 411,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-4/raw/machine.svg"
+        },
+        {
+            "id": 412,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-69/raw/machine.svg"
+        },
+        {
+            "id": 413,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-59/raw/machine.svg"
+        },
+        {
+            "id": 414,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-70/raw/machine.svg"
+        },
+        {
+            "id": 415,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "128"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/128/node-75/raw/machine.svg"
+        },
+        {
+            "id": 416,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-0/raw/machine.svg"
+        },
+        {
+            "id": 417,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-53/raw/machine.svg"
+        },
+        {
+            "id": 418,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-15/raw/machine.svg"
+        },
+        {
+            "id": 419,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-3/raw/machine.svg"
+        },
+        {
+            "id": 420,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-54/raw/machine.svg"
+        },
+        {
+            "id": 421,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-2/raw/machine.svg"
+        },
+        {
+            "id": 422,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-23/raw/machine.svg"
+        },
+        {
+            "id": 423,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-10/raw/machine.svg"
+        },
+        {
+            "id": 424,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-8/raw/machine.svg"
+        },
+        {
+            "id": 425,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-20/raw/machine.svg"
+        },
+        {
+            "id": 426,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-48/raw/machine.svg"
+        },
+        {
+            "id": 427,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-14/raw/machine.svg"
+        },
+        {
+            "id": 428,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-7/raw/machine.svg"
+        },
+        {
+            "id": 429,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-56/raw/machine.svg"
+        },
+        {
+            "id": 430,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-51/raw/machine.svg"
+        },
+        {
+            "id": 431,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-50/raw/machine.svg"
+        },
+        {
+            "id": 432,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-40/raw/machine.svg"
+        },
+        {
+            "id": 433,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-61/raw/machine.svg"
+        },
+        {
+            "id": 434,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-18/raw/machine.svg"
+        },
+        {
+            "id": 435,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-58/raw/machine.svg"
+        },
+        {
+            "id": 436,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-37/raw/machine.svg"
+        },
+        {
+            "id": 437,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-17/raw/machine.svg"
+        },
+        {
+            "id": 438,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-39/raw/machine.svg"
+        },
+        {
+            "id": 439,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-21/raw/machine.svg"
+        },
+        {
+            "id": 440,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-31/raw/machine.svg"
+        },
+        {
+            "id": 441,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-22/raw/machine.svg"
+        },
+        {
+            "id": 442,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-44/raw/machine.svg"
+        },
+        {
+            "id": 443,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-25/raw/machine.svg"
+        },
+        {
+            "id": 444,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-57/raw/machine.svg"
+        },
+        {
+            "id": 445,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-33/raw/machine.svg"
+        },
+        {
+            "id": 446,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-38/raw/machine.svg"
+        },
+        {
+            "id": 447,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-46/raw/machine.svg"
+        },
+        {
+            "id": 448,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-27/raw/machine.svg"
+        },
+        {
+            "id": 449,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-42/raw/machine.svg"
+        },
+        {
+            "id": 450,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-32/raw/machine.svg"
+        },
+        {
+            "id": 451,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-52/raw/machine.svg"
+        },
+        {
+            "id": 452,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-45/raw/machine.svg"
+        },
+        {
+            "id": 453,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-47/raw/machine.svg"
+        },
+        {
+            "id": 454,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-63/raw/machine.svg"
+        },
+        {
+            "id": 455,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-11/raw/machine.svg"
+        },
+        {
+            "id": 456,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-1/raw/machine.svg"
+        },
+        {
+            "id": 457,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-12/raw/machine.svg"
+        },
+        {
+            "id": 458,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-19/raw/machine.svg"
+        },
+        {
+            "id": 459,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-62/raw/machine.svg"
+        },
+        {
+            "id": 460,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-34/raw/machine.svg"
+        },
+        {
+            "id": 461,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-43/raw/machine.svg"
+        },
+        {
+            "id": 462,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-6/raw/machine.svg"
+        },
+        {
+            "id": 463,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-29/raw/machine.svg"
+        },
+        {
+            "id": 464,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-35/raw/machine.svg"
+        },
+        {
+            "id": 465,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-26/raw/machine.svg"
+        },
+        {
+            "id": 466,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-41/raw/machine.svg"
+        },
+        {
+            "id": 467,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-16/raw/machine.svg"
+        },
+        {
+            "id": 468,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-9/raw/machine.svg"
+        },
+        {
+            "id": 469,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-24/raw/machine.svg"
+        },
+        {
+            "id": 470,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-5/raw/machine.svg"
+        },
+        {
+            "id": 471,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-55/raw/machine.svg"
+        },
+        {
+            "id": 472,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-49/raw/machine.svg"
+        },
+        {
+            "id": 473,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-30/raw/machine.svg"
+        },
+        {
+            "id": 474,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-28/raw/machine.svg"
+        },
+        {
+            "id": 475,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-36/raw/machine.svg"
+        },
+        {
+            "id": 476,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-13/raw/machine.svg"
+        },
+        {
+            "id": 477,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-60/raw/machine.svg"
+        },
+        {
+            "id": 478,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-4/raw/machine.svg"
+        },
+        {
+            "id": 479,
+            "desc": "azure-cyclecloud-cpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "cpu",
+                "64"
+            ],
+            "src": "../../../data/azure/cyclecloud/cpu/64/node-59/raw/machine.svg"
+        }
+    ]
+}

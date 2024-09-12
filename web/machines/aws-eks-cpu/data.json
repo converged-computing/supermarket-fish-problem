@@ -1,0 +1,4426 @@
+{
+    "gallery": [
+        {
+            "id": 0,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-0/raw/machine.png"
+        },
+        {
+            "id": 1,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-243/raw/machine.png"
+        },
+        {
+            "id": 2,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-206/raw/machine.png"
+        },
+        {
+            "id": 3,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-200/raw/machine.png"
+        },
+        {
+            "id": 4,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-211/raw/machine.png"
+        },
+        {
+            "id": 5,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-197/raw/machine.png"
+        },
+        {
+            "id": 6,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-164/raw/machine.png"
+        },
+        {
+            "id": 7,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-53/raw/machine.png"
+        },
+        {
+            "id": 8,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-150/raw/machine.png"
+        },
+        {
+            "id": 9,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-66/raw/machine.png"
+        },
+        {
+            "id": 10,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-134/raw/machine.png"
+        },
+        {
+            "id": 11,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-15/raw/machine.png"
+        },
+        {
+            "id": 12,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-163/raw/machine.png"
+        },
+        {
+            "id": 13,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-147/raw/machine.png"
+        },
+        {
+            "id": 14,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-233/raw/machine.png"
+        },
+        {
+            "id": 15,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-3/raw/machine.png"
+        },
+        {
+            "id": 16,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-93/raw/machine.png"
+        },
+        {
+            "id": 17,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-54/raw/machine.png"
+        },
+        {
+            "id": 18,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-276/raw/machine.png"
+        },
+        {
+            "id": 19,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-110/raw/machine.png"
+        },
+        {
+            "id": 20,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-272/raw/machine.png"
+        },
+        {
+            "id": 21,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-236/raw/machine.png"
+        },
+        {
+            "id": 22,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-173/raw/machine.png"
+        },
+        {
+            "id": 23,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-232/raw/machine.png"
+        },
+        {
+            "id": 24,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-133/raw/machine.png"
+        },
+        {
+            "id": 25,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-237/raw/machine.png"
+        },
+        {
+            "id": 26,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-2/raw/machine.png"
+        },
+        {
+            "id": 27,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-209/raw/machine.png"
+        },
+        {
+            "id": 28,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-126/raw/machine.png"
+        },
+        {
+            "id": 29,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-201/raw/machine.png"
+        },
+        {
+            "id": 30,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-170/raw/machine.png"
+        },
+        {
+            "id": 31,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-86/raw/machine.png"
+        },
+        {
+            "id": 32,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-202/raw/machine.png"
+        },
+        {
+            "id": 33,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-214/raw/machine.png"
+        },
+        {
+            "id": 34,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-179/raw/machine.png"
+        },
+        {
+            "id": 35,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-23/raw/machine.png"
+        },
+        {
+            "id": 36,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-10/raw/machine.png"
+        },
+        {
+            "id": 37,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-151/raw/machine.png"
+        },
+        {
+            "id": 38,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-264/raw/machine.png"
+        },
+        {
+            "id": 39,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-97/raw/machine.png"
+        },
+        {
+            "id": 40,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-219/raw/machine.png"
+        },
+        {
+            "id": 41,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-196/raw/machine.png"
+        },
+        {
+            "id": 42,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-269/raw/machine.png"
+        },
+        {
+            "id": 43,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-8/raw/machine.png"
+        },
+        {
+            "id": 44,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-159/raw/machine.png"
+        },
+        {
+            "id": 45,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-20/raw/machine.png"
+        },
+        {
+            "id": 46,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-273/raw/machine.png"
+        },
+        {
+            "id": 47,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-220/raw/machine.png"
+        },
+        {
+            "id": 48,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-247/raw/machine.png"
+        },
+        {
+            "id": 49,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-238/raw/machine.png"
+        },
+        {
+            "id": 50,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-207/raw/machine.png"
+        },
+        {
+            "id": 51,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-48/raw/machine.png"
+        },
+        {
+            "id": 52,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-184/raw/machine.png"
+        },
+        {
+            "id": 53,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-122/raw/machine.png"
+        },
+        {
+            "id": 54,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-175/raw/machine.png"
+        },
+        {
+            "id": 55,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-106/raw/machine.png"
+        },
+        {
+            "id": 56,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-79/raw/machine.png"
+        },
+        {
+            "id": 57,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-104/raw/machine.png"
+        },
+        {
+            "id": 58,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-14/raw/machine.png"
+        },
+        {
+            "id": 59,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-112/raw/machine.png"
+        },
+        {
+            "id": 60,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-138/raw/machine.png"
+        },
+        {
+            "id": 61,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-7/raw/machine.png"
+        },
+        {
+            "id": 62,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-146/raw/machine.png"
+        },
+        {
+            "id": 63,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-205/raw/machine.png"
+        },
+        {
+            "id": 64,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-265/raw/machine.png"
+        },
+        {
+            "id": 65,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-171/raw/machine.png"
+        },
+        {
+            "id": 66,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-102/raw/machine.png"
+        },
+        {
+            "id": 67,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-167/raw/machine.png"
+        },
+        {
+            "id": 68,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-140/raw/machine.png"
+        },
+        {
+            "id": 69,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-224/raw/machine.png"
+        },
+        {
+            "id": 70,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-129/raw/machine.png"
+        },
+        {
+            "id": 71,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-56/raw/machine.png"
+        },
+        {
+            "id": 72,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-51/raw/machine.png"
+        },
+        {
+            "id": 73,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-50/raw/machine.png"
+        },
+        {
+            "id": 74,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-40/raw/machine.png"
+        },
+        {
+            "id": 75,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-61/raw/machine.png"
+        },
+        {
+            "id": 76,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-18/raw/machine.png"
+        },
+        {
+            "id": 77,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-166/raw/machine.png"
+        },
+        {
+            "id": 78,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-260/raw/machine.png"
+        },
+        {
+            "id": 79,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-114/raw/machine.png"
+        },
+        {
+            "id": 80,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-270/raw/machine.png"
+        },
+        {
+            "id": 81,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-180/raw/machine.png"
+        },
+        {
+            "id": 82,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-116/raw/machine.png"
+        },
+        {
+            "id": 83,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-58/raw/machine.png"
+        },
+        {
+            "id": 84,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-37/raw/machine.png"
+        },
+        {
+            "id": 85,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-259/raw/machine.png"
+        },
+        {
+            "id": 86,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-185/raw/machine.png"
+        },
+        {
+            "id": 87,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-142/raw/machine.png"
+        },
+        {
+            "id": 88,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-225/raw/machine.png"
+        },
+        {
+            "id": 89,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-124/raw/machine.png"
+        },
+        {
+            "id": 90,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-176/raw/machine.png"
+        },
+        {
+            "id": 91,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-107/raw/machine.png"
+        },
+        {
+            "id": 92,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-71/raw/machine.png"
+        },
+        {
+            "id": 93,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-145/raw/machine.png"
+        },
+        {
+            "id": 94,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-256/raw/machine.png"
+        },
+        {
+            "id": 95,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-105/raw/machine.png"
+        },
+        {
+            "id": 96,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-17/raw/machine.png"
+        },
+        {
+            "id": 97,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-161/raw/machine.png"
+        },
+        {
+            "id": 98,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-155/raw/machine.png"
+        },
+        {
+            "id": 99,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-267/raw/machine.png"
+        },
+        {
+            "id": 100,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-271/raw/machine.png"
+        },
+        {
+            "id": 101,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-39/raw/machine.png"
+        },
+        {
+            "id": 102,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-119/raw/machine.png"
+        },
+        {
+            "id": 103,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-65/raw/machine.png"
+        },
+        {
+            "id": 104,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-156/raw/machine.png"
+        },
+        {
+            "id": 105,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-120/raw/machine.png"
+        },
+        {
+            "id": 106,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-21/raw/machine.png"
+        },
+        {
+            "id": 107,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-31/raw/machine.png"
+        },
+        {
+            "id": 108,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-203/raw/machine.png"
+        },
+        {
+            "id": 109,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-190/raw/machine.png"
+        },
+        {
+            "id": 110,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-22/raw/machine.png"
+        },
+        {
+            "id": 111,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-117/raw/machine.png"
+        },
+        {
+            "id": 112,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-89/raw/machine.png"
+        },
+        {
+            "id": 113,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-195/raw/machine.png"
+        },
+        {
+            "id": 114,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-68/raw/machine.png"
+        },
+        {
+            "id": 115,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-84/raw/machine.png"
+        },
+        {
+            "id": 116,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-215/raw/machine.png"
+        },
+        {
+            "id": 117,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-249/raw/machine.png"
+        },
+        {
+            "id": 118,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-123/raw/machine.png"
+        },
+        {
+            "id": 119,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-169/raw/machine.png"
+        },
+        {
+            "id": 120,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-165/raw/machine.png"
+        },
+        {
+            "id": 121,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-157/raw/machine.png"
+        },
+        {
+            "id": 122,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-128/raw/machine.png"
+        },
+        {
+            "id": 123,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-83/raw/machine.png"
+        },
+        {
+            "id": 124,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-76/raw/machine.png"
+        },
+        {
+            "id": 125,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-182/raw/machine.png"
+        },
+        {
+            "id": 126,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-44/raw/machine.png"
+        },
+        {
+            "id": 127,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-25/raw/machine.png"
+        },
+        {
+            "id": 128,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-174/raw/machine.png"
+        },
+        {
+            "id": 129,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-261/raw/machine.png"
+        },
+        {
+            "id": 130,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-186/raw/machine.png"
+        },
+        {
+            "id": 131,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-103/raw/machine.png"
+        },
+        {
+            "id": 132,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-191/raw/machine.png"
+        },
+        {
+            "id": 133,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-251/raw/machine.png"
+        },
+        {
+            "id": 134,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-210/raw/machine.png"
+        },
+        {
+            "id": 135,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-85/raw/machine.png"
+        },
+        {
+            "id": 136,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-57/raw/machine.png"
+        },
+        {
+            "id": 137,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-192/raw/machine.png"
+        },
+        {
+            "id": 138,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-125/raw/machine.png"
+        },
+        {
+            "id": 139,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-101/raw/machine.png"
+        },
+        {
+            "id": 140,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-230/raw/machine.png"
+        },
+        {
+            "id": 141,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-33/raw/machine.png"
+        },
+        {
+            "id": 142,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-38/raw/machine.png"
+        },
+        {
+            "id": 143,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-46/raw/machine.png"
+        },
+        {
+            "id": 144,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-121/raw/machine.png"
+        },
+        {
+            "id": 145,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-235/raw/machine.png"
+        },
+        {
+            "id": 146,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-27/raw/machine.png"
+        },
+        {
+            "id": 147,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-181/raw/machine.png"
+        },
+        {
+            "id": 148,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-213/raw/machine.png"
+        },
+        {
+            "id": 149,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-92/raw/machine.png"
+        },
+        {
+            "id": 150,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-227/raw/machine.png"
+        },
+        {
+            "id": 151,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-144/raw/machine.png"
+        },
+        {
+            "id": 152,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-42/raw/machine.png"
+        },
+        {
+            "id": 153,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-127/raw/machine.png"
+        },
+        {
+            "id": 154,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-154/raw/machine.png"
+        },
+        {
+            "id": 155,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-231/raw/machine.png"
+        },
+        {
+            "id": 156,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-32/raw/machine.png"
+        },
+        {
+            "id": 157,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-81/raw/machine.png"
+        },
+        {
+            "id": 158,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-52/raw/machine.png"
+        },
+        {
+            "id": 159,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-45/raw/machine.png"
+        },
+        {
+            "id": 160,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-47/raw/machine.png"
+        },
+        {
+            "id": 161,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-63/raw/machine.png"
+        },
+        {
+            "id": 162,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-108/raw/machine.png"
+        },
+        {
+            "id": 163,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-11/raw/machine.png"
+        },
+        {
+            "id": 164,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-111/raw/machine.png"
+        },
+        {
+            "id": 165,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-95/raw/machine.png"
+        },
+        {
+            "id": 166,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-1/raw/machine.png"
+        },
+        {
+            "id": 167,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-94/raw/machine.png"
+        },
+        {
+            "id": 168,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-141/raw/machine.png"
+        },
+        {
+            "id": 169,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-275/raw/machine.png"
+        },
+        {
+            "id": 170,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-204/raw/machine.png"
+        },
+        {
+            "id": 171,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-153/raw/machine.png"
+        },
+        {
+            "id": 172,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-12/raw/machine.png"
+        },
+        {
+            "id": 173,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-99/raw/machine.png"
+        },
+        {
+            "id": 174,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-19/raw/machine.png"
+        },
+        {
+            "id": 175,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-73/raw/machine.png"
+        },
+        {
+            "id": 176,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-113/raw/machine.png"
+        },
+        {
+            "id": 177,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-88/raw/machine.png"
+        },
+        {
+            "id": 178,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-183/raw/machine.png"
+        },
+        {
+            "id": 179,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-72/raw/machine.png"
+        },
+        {
+            "id": 180,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-258/raw/machine.png"
+        },
+        {
+            "id": 181,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-136/raw/machine.png"
+        },
+        {
+            "id": 182,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-80/raw/machine.png"
+        },
+        {
+            "id": 183,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-248/raw/machine.png"
+        },
+        {
+            "id": 184,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-62/raw/machine.png"
+        },
+        {
+            "id": 185,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-34/raw/machine.png"
+        },
+        {
+            "id": 186,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-194/raw/machine.png"
+        },
+        {
+            "id": 187,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-254/raw/machine.png"
+        },
+        {
+            "id": 188,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-132/raw/machine.png"
+        },
+        {
+            "id": 189,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-43/raw/machine.png"
+        },
+        {
+            "id": 190,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-109/raw/machine.png"
+        },
+        {
+            "id": 191,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-137/raw/machine.png"
+        },
+        {
+            "id": 192,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-242/raw/machine.png"
+        },
+        {
+            "id": 193,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-82/raw/machine.png"
+        },
+        {
+            "id": 194,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-266/raw/machine.png"
+        },
+        {
+            "id": 195,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-217/raw/machine.png"
+        },
+        {
+            "id": 196,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-255/raw/machine.png"
+        },
+        {
+            "id": 197,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-223/raw/machine.png"
+        },
+        {
+            "id": 198,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-244/raw/machine.png"
+        },
+        {
+            "id": 199,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-245/raw/machine.png"
+        },
+        {
+            "id": 200,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-6/raw/machine.png"
+        },
+        {
+            "id": 201,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-29/raw/machine.png"
+        },
+        {
+            "id": 202,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-78/raw/machine.png"
+        },
+        {
+            "id": 203,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-35/raw/machine.png"
+        },
+        {
+            "id": 204,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-148/raw/machine.png"
+        },
+        {
+            "id": 205,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-250/raw/machine.png"
+        },
+        {
+            "id": 206,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-98/raw/machine.png"
+        },
+        {
+            "id": 207,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-253/raw/machine.png"
+        },
+        {
+            "id": 208,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-118/raw/machine.png"
+        },
+        {
+            "id": 209,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-91/raw/machine.png"
+        },
+        {
+            "id": 210,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-67/raw/machine.png"
+        },
+        {
+            "id": 211,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-143/raw/machine.png"
+        },
+        {
+            "id": 212,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-26/raw/machine.png"
+        },
+        {
+            "id": 213,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-74/raw/machine.png"
+        },
+        {
+            "id": 214,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-41/raw/machine.png"
+        },
+        {
+            "id": 215,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-188/raw/machine.png"
+        },
+        {
+            "id": 216,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-87/raw/machine.png"
+        },
+        {
+            "id": 217,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-246/raw/machine.png"
+        },
+        {
+            "id": 218,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-16/raw/machine.png"
+        },
+        {
+            "id": 219,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-257/raw/machine.png"
+        },
+        {
+            "id": 220,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-168/raw/machine.png"
+        },
+        {
+            "id": 221,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-240/raw/machine.png"
+        },
+        {
+            "id": 222,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-189/raw/machine.png"
+        },
+        {
+            "id": 223,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-9/raw/machine.png"
+        },
+        {
+            "id": 224,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-24/raw/machine.png"
+        },
+        {
+            "id": 225,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-5/raw/machine.png"
+        },
+        {
+            "id": 226,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-131/raw/machine.png"
+        },
+        {
+            "id": 227,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-162/raw/machine.png"
+        },
+        {
+            "id": 228,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-135/raw/machine.png"
+        },
+        {
+            "id": 229,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-241/raw/machine.png"
+        },
+        {
+            "id": 230,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-222/raw/machine.png"
+        },
+        {
+            "id": 231,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-55/raw/machine.png"
+        },
+        {
+            "id": 232,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-49/raw/machine.png"
+        },
+        {
+            "id": 233,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-149/raw/machine.png"
+        },
+        {
+            "id": 234,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-152/raw/machine.png"
+        },
+        {
+            "id": 235,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-30/raw/machine.png"
+        },
+        {
+            "id": 236,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-193/raw/machine.png"
+        },
+        {
+            "id": 237,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-218/raw/machine.png"
+        },
+        {
+            "id": 238,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-234/raw/machine.png"
+        },
+        {
+            "id": 239,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-28/raw/machine.png"
+        },
+        {
+            "id": 240,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-187/raw/machine.png"
+        },
+        {
+            "id": 241,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-177/raw/machine.png"
+        },
+        {
+            "id": 242,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-221/raw/machine.png"
+        },
+        {
+            "id": 243,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-178/raw/machine.png"
+        },
+        {
+            "id": 244,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-239/raw/machine.png"
+        },
+        {
+            "id": 245,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-262/raw/machine.png"
+        },
+        {
+            "id": 246,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-90/raw/machine.png"
+        },
+        {
+            "id": 247,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-212/raw/machine.png"
+        },
+        {
+            "id": 248,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-36/raw/machine.png"
+        },
+        {
+            "id": 249,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-274/raw/machine.png"
+        },
+        {
+            "id": 250,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-77/raw/machine.png"
+        },
+        {
+            "id": 251,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-13/raw/machine.png"
+        },
+        {
+            "id": 252,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-64/raw/machine.png"
+        },
+        {
+            "id": 253,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-60/raw/machine.png"
+        },
+        {
+            "id": 254,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-96/raw/machine.png"
+        },
+        {
+            "id": 255,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-115/raw/machine.png"
+        },
+        {
+            "id": 256,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-158/raw/machine.png"
+        },
+        {
+            "id": 257,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-100/raw/machine.png"
+        },
+        {
+            "id": 258,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-199/raw/machine.png"
+        },
+        {
+            "id": 259,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-268/raw/machine.png"
+        },
+        {
+            "id": 260,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-4/raw/machine.png"
+        },
+        {
+            "id": 261,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-229/raw/machine.png"
+        },
+        {
+            "id": 262,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-69/raw/machine.png"
+        },
+        {
+            "id": 263,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-252/raw/machine.png"
+        },
+        {
+            "id": 264,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-226/raw/machine.png"
+        },
+        {
+            "id": 265,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-198/raw/machine.png"
+        },
+        {
+            "id": 266,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-139/raw/machine.png"
+        },
+        {
+            "id": 267,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-172/raw/machine.png"
+        },
+        {
+            "id": 268,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-208/raw/machine.png"
+        },
+        {
+            "id": 269,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-228/raw/machine.png"
+        },
+        {
+            "id": 270,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-216/raw/machine.png"
+        },
+        {
+            "id": 271,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-160/raw/machine.png"
+        },
+        {
+            "id": 272,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-59/raw/machine.png"
+        },
+        {
+            "id": 273,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-263/raw/machine.png"
+        },
+        {
+            "id": 274,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-130/raw/machine.png"
+        },
+        {
+            "id": 275,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-70/raw/machine.png"
+        },
+        {
+            "id": 276,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "256"
+            ],
+            "src": "../../../data/aws/eks/cpu/256/node-75/raw/machine.png"
+        },
+        {
+            "id": 277,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-0/raw/machine.png"
+        },
+        {
+            "id": 278,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-206/raw/machine.png"
+        },
+        {
+            "id": 279,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-200/raw/machine.png"
+        },
+        {
+            "id": 280,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-211/raw/machine.png"
+        },
+        {
+            "id": 281,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-197/raw/machine.png"
+        },
+        {
+            "id": 282,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-164/raw/machine.png"
+        },
+        {
+            "id": 283,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-53/raw/machine.png"
+        },
+        {
+            "id": 284,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-150/raw/machine.png"
+        },
+        {
+            "id": 285,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-66/raw/machine.png"
+        },
+        {
+            "id": 286,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-134/raw/machine.png"
+        },
+        {
+            "id": 287,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-15/raw/machine.png"
+        },
+        {
+            "id": 288,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-163/raw/machine.png"
+        },
+        {
+            "id": 289,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-147/raw/machine.png"
+        },
+        {
+            "id": 290,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-3/raw/machine.png"
+        },
+        {
+            "id": 291,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-93/raw/machine.png"
+        },
+        {
+            "id": 292,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-54/raw/machine.png"
+        },
+        {
+            "id": 293,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-110/raw/machine.png"
+        },
+        {
+            "id": 294,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-173/raw/machine.png"
+        },
+        {
+            "id": 295,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-133/raw/machine.png"
+        },
+        {
+            "id": 296,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-2/raw/machine.png"
+        },
+        {
+            "id": 297,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-209/raw/machine.png"
+        },
+        {
+            "id": 298,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-126/raw/machine.png"
+        },
+        {
+            "id": 299,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-201/raw/machine.png"
+        },
+        {
+            "id": 300,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-170/raw/machine.png"
+        },
+        {
+            "id": 301,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-86/raw/machine.png"
+        },
+        {
+            "id": 302,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-202/raw/machine.png"
+        },
+        {
+            "id": 303,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-214/raw/machine.png"
+        },
+        {
+            "id": 304,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-179/raw/machine.png"
+        },
+        {
+            "id": 305,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-23/raw/machine.png"
+        },
+        {
+            "id": 306,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-10/raw/machine.png"
+        },
+        {
+            "id": 307,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-151/raw/machine.png"
+        },
+        {
+            "id": 308,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-97/raw/machine.png"
+        },
+        {
+            "id": 309,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-219/raw/machine.png"
+        },
+        {
+            "id": 310,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-196/raw/machine.png"
+        },
+        {
+            "id": 311,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-8/raw/machine.png"
+        },
+        {
+            "id": 312,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-159/raw/machine.png"
+        },
+        {
+            "id": 313,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-20/raw/machine.png"
+        },
+        {
+            "id": 314,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-220/raw/machine.png"
+        },
+        {
+            "id": 315,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-207/raw/machine.png"
+        },
+        {
+            "id": 316,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-48/raw/machine.png"
+        },
+        {
+            "id": 317,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-184/raw/machine.png"
+        },
+        {
+            "id": 318,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-122/raw/machine.png"
+        },
+        {
+            "id": 319,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-175/raw/machine.png"
+        },
+        {
+            "id": 320,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-106/raw/machine.png"
+        },
+        {
+            "id": 321,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-79/raw/machine.png"
+        },
+        {
+            "id": 322,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-104/raw/machine.png"
+        },
+        {
+            "id": 323,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-14/raw/machine.png"
+        },
+        {
+            "id": 324,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-112/raw/machine.png"
+        },
+        {
+            "id": 325,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-138/raw/machine.png"
+        },
+        {
+            "id": 326,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-7/raw/machine.png"
+        },
+        {
+            "id": 327,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-146/raw/machine.png"
+        },
+        {
+            "id": 328,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-205/raw/machine.png"
+        },
+        {
+            "id": 329,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-171/raw/machine.png"
+        },
+        {
+            "id": 330,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-102/raw/machine.png"
+        },
+        {
+            "id": 331,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-167/raw/machine.png"
+        },
+        {
+            "id": 332,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-140/raw/machine.png"
+        },
+        {
+            "id": 333,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-224/raw/machine.png"
+        },
+        {
+            "id": 334,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-129/raw/machine.png"
+        },
+        {
+            "id": 335,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-56/raw/machine.png"
+        },
+        {
+            "id": 336,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-51/raw/machine.png"
+        },
+        {
+            "id": 337,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-50/raw/machine.png"
+        },
+        {
+            "id": 338,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-40/raw/machine.png"
+        },
+        {
+            "id": 339,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-61/raw/machine.png"
+        },
+        {
+            "id": 340,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-18/raw/machine.png"
+        },
+        {
+            "id": 341,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-166/raw/machine.png"
+        },
+        {
+            "id": 342,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-114/raw/machine.png"
+        },
+        {
+            "id": 343,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-116/raw/machine.png"
+        },
+        {
+            "id": 344,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-58/raw/machine.png"
+        },
+        {
+            "id": 345,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-37/raw/machine.png"
+        },
+        {
+            "id": 346,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-185/raw/machine.png"
+        },
+        {
+            "id": 347,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-142/raw/machine.png"
+        },
+        {
+            "id": 348,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-124/raw/machine.png"
+        },
+        {
+            "id": 349,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-176/raw/machine.png"
+        },
+        {
+            "id": 350,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-107/raw/machine.png"
+        },
+        {
+            "id": 351,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-71/raw/machine.png"
+        },
+        {
+            "id": 352,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-145/raw/machine.png"
+        },
+        {
+            "id": 353,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-105/raw/machine.png"
+        },
+        {
+            "id": 354,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-17/raw/machine.png"
+        },
+        {
+            "id": 355,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-161/raw/machine.png"
+        },
+        {
+            "id": 356,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-155/raw/machine.png"
+        },
+        {
+            "id": 357,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-39/raw/machine.png"
+        },
+        {
+            "id": 358,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-119/raw/machine.png"
+        },
+        {
+            "id": 359,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-65/raw/machine.png"
+        },
+        {
+            "id": 360,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-156/raw/machine.png"
+        },
+        {
+            "id": 361,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-120/raw/machine.png"
+        },
+        {
+            "id": 362,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-21/raw/machine.png"
+        },
+        {
+            "id": 363,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-31/raw/machine.png"
+        },
+        {
+            "id": 364,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-203/raw/machine.png"
+        },
+        {
+            "id": 365,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-190/raw/machine.png"
+        },
+        {
+            "id": 366,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-22/raw/machine.png"
+        },
+        {
+            "id": 367,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-117/raw/machine.png"
+        },
+        {
+            "id": 368,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-89/raw/machine.png"
+        },
+        {
+            "id": 369,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-195/raw/machine.png"
+        },
+        {
+            "id": 370,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-68/raw/machine.png"
+        },
+        {
+            "id": 371,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-84/raw/machine.png"
+        },
+        {
+            "id": 372,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-215/raw/machine.png"
+        },
+        {
+            "id": 373,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-123/raw/machine.png"
+        },
+        {
+            "id": 374,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-169/raw/machine.png"
+        },
+        {
+            "id": 375,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-165/raw/machine.png"
+        },
+        {
+            "id": 376,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-157/raw/machine.png"
+        },
+        {
+            "id": 377,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-128/raw/machine.png"
+        },
+        {
+            "id": 378,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-83/raw/machine.png"
+        },
+        {
+            "id": 379,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-76/raw/machine.png"
+        },
+        {
+            "id": 380,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-182/raw/machine.png"
+        },
+        {
+            "id": 381,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-44/raw/machine.png"
+        },
+        {
+            "id": 382,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-25/raw/machine.png"
+        },
+        {
+            "id": 383,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-174/raw/machine.png"
+        },
+        {
+            "id": 384,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-186/raw/machine.png"
+        },
+        {
+            "id": 385,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-103/raw/machine.png"
+        },
+        {
+            "id": 386,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-191/raw/machine.png"
+        },
+        {
+            "id": 387,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-210/raw/machine.png"
+        },
+        {
+            "id": 388,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-85/raw/machine.png"
+        },
+        {
+            "id": 389,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-57/raw/machine.png"
+        },
+        {
+            "id": 390,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-192/raw/machine.png"
+        },
+        {
+            "id": 391,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-125/raw/machine.png"
+        },
+        {
+            "id": 392,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-101/raw/machine.png"
+        },
+        {
+            "id": 393,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-33/raw/machine.png"
+        },
+        {
+            "id": 394,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-38/raw/machine.png"
+        },
+        {
+            "id": 395,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-46/raw/machine.png"
+        },
+        {
+            "id": 396,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-121/raw/machine.png"
+        },
+        {
+            "id": 397,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-27/raw/machine.png"
+        },
+        {
+            "id": 398,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-181/raw/machine.png"
+        },
+        {
+            "id": 399,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-213/raw/machine.png"
+        },
+        {
+            "id": 400,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-92/raw/machine.png"
+        },
+        {
+            "id": 401,
+            "desc": "aws-eks-cpu",
+            "tags": [
+                "aws",
+                "eks",
+                "cpu",
+                "32"
+            ],
+            "src": "../../../data/aws/eks/cpu/32/node-144/raw/machine.png"
+        }
+    ]
+}

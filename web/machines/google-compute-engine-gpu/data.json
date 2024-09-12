@@ -1,0 +1,1156 @@
+{
+    "gallery": [
+        {
+            "id": 0,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-0/raw/machine.png"
+        },
+        {
+            "id": 1,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-3/raw/machine.png"
+        },
+        {
+            "id": 2,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-2/raw/machine.png"
+        },
+        {
+            "id": 3,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-7/raw/machine.png"
+        },
+        {
+            "id": 4,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-1/raw/machine.png"
+        },
+        {
+            "id": 5,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-6/raw/machine.png"
+        },
+        {
+            "id": 6,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-5/raw/machine.png"
+        },
+        {
+            "id": 7,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/8/node-4/raw/machine.png"
+        },
+        {
+            "id": 8,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-0/raw/machine.png"
+        },
+        {
+            "id": 9,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-15/raw/machine.png"
+        },
+        {
+            "id": 10,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-3/raw/machine.png"
+        },
+        {
+            "id": 11,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-2/raw/machine.png"
+        },
+        {
+            "id": 12,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-23/raw/machine.png"
+        },
+        {
+            "id": 13,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-10/raw/machine.png"
+        },
+        {
+            "id": 14,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-8/raw/machine.png"
+        },
+        {
+            "id": 15,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-20/raw/machine.png"
+        },
+        {
+            "id": 16,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-14/raw/machine.png"
+        },
+        {
+            "id": 17,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-7/raw/machine.png"
+        },
+        {
+            "id": 18,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-18/raw/machine.png"
+        },
+        {
+            "id": 19,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-17/raw/machine.png"
+        },
+        {
+            "id": 20,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-21/raw/machine.png"
+        },
+        {
+            "id": 21,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-31/raw/machine.png"
+        },
+        {
+            "id": 22,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-22/raw/machine.png"
+        },
+        {
+            "id": 23,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-25/raw/machine.png"
+        },
+        {
+            "id": 24,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-27/raw/machine.png"
+        },
+        {
+            "id": 25,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-11/raw/machine.png"
+        },
+        {
+            "id": 26,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-1/raw/machine.png"
+        },
+        {
+            "id": 27,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-12/raw/machine.png"
+        },
+        {
+            "id": 28,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-19/raw/machine.png"
+        },
+        {
+            "id": 29,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-6/raw/machine.png"
+        },
+        {
+            "id": 30,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-29/raw/machine.png"
+        },
+        {
+            "id": 31,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-26/raw/machine.png"
+        },
+        {
+            "id": 32,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-16/raw/machine.png"
+        },
+        {
+            "id": 33,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-9/raw/machine.png"
+        },
+        {
+            "id": 34,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-24/raw/machine.png"
+        },
+        {
+            "id": 35,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-5/raw/machine.png"
+        },
+        {
+            "id": 36,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-30/raw/machine.png"
+        },
+        {
+            "id": 37,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-28/raw/machine.png"
+        },
+        {
+            "id": 38,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-13/raw/machine.png"
+        },
+        {
+            "id": 39,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/32/node-4/raw/machine.png"
+        },
+        {
+            "id": 40,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-0/raw/machine.png"
+        },
+        {
+            "id": 41,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-15/raw/machine.png"
+        },
+        {
+            "id": 42,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-3/raw/machine.png"
+        },
+        {
+            "id": 43,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-2/raw/machine.png"
+        },
+        {
+            "id": 44,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-23/raw/machine.png"
+        },
+        {
+            "id": 45,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-10/raw/machine.png"
+        },
+        {
+            "id": 46,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-8/raw/machine.png"
+        },
+        {
+            "id": 47,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-20/raw/machine.png"
+        },
+        {
+            "id": 48,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-14/raw/machine.png"
+        },
+        {
+            "id": 49,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-7/raw/machine.png"
+        },
+        {
+            "id": 50,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-18/raw/machine.png"
+        },
+        {
+            "id": 51,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-17/raw/machine.png"
+        },
+        {
+            "id": 52,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-21/raw/machine.png"
+        },
+        {
+            "id": 53,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-31/raw/machine.png"
+        },
+        {
+            "id": 54,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-22/raw/machine.png"
+        },
+        {
+            "id": 55,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-25/raw/machine.png"
+        },
+        {
+            "id": 56,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-27/raw/machine.png"
+        },
+        {
+            "id": 57,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-11/raw/machine.png"
+        },
+        {
+            "id": 58,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-1/raw/machine.png"
+        },
+        {
+            "id": 59,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-12/raw/machine.png"
+        },
+        {
+            "id": 60,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-19/raw/machine.png"
+        },
+        {
+            "id": 61,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-6/raw/machine.png"
+        },
+        {
+            "id": 62,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-29/raw/machine.png"
+        },
+        {
+            "id": 63,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-26/raw/machine.png"
+        },
+        {
+            "id": 64,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-16/raw/machine.png"
+        },
+        {
+            "id": 65,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-9/raw/machine.png"
+        },
+        {
+            "id": 66,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-24/raw/machine.png"
+        },
+        {
+            "id": 67,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-5/raw/machine.png"
+        },
+        {
+            "id": 68,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-30/raw/machine.png"
+        },
+        {
+            "id": 69,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-28/raw/machine.png"
+        },
+        {
+            "id": 70,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-13/raw/machine.png"
+        },
+        {
+            "id": 71,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "2"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/2/node-4/raw/machine.png"
+        },
+        {
+            "id": 72,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-0/raw/machine.png"
+        },
+        {
+            "id": 73,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-3/raw/machine.png"
+        },
+        {
+            "id": 74,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-2/raw/machine.png"
+        },
+        {
+            "id": 75,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-7/raw/machine.png"
+        },
+        {
+            "id": 76,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-1/raw/machine.png"
+        },
+        {
+            "id": 77,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-6/raw/machine.png"
+        },
+        {
+            "id": 78,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-5/raw/machine.png"
+        },
+        {
+            "id": 79,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/4/node-4/raw/machine.png"
+        },
+        {
+            "id": 80,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-0/raw/machine.png"
+        },
+        {
+            "id": 81,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-15/raw/machine.png"
+        },
+        {
+            "id": 82,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-3/raw/machine.png"
+        },
+        {
+            "id": 83,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-2/raw/machine.png"
+        },
+        {
+            "id": 84,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-10/raw/machine.png"
+        },
+        {
+            "id": 85,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-8/raw/machine.png"
+        },
+        {
+            "id": 86,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-14/raw/machine.png"
+        },
+        {
+            "id": 87,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-7/raw/machine.png"
+        },
+        {
+            "id": 88,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-11/raw/machine.png"
+        },
+        {
+            "id": 89,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-1/raw/machine.png"
+        },
+        {
+            "id": 90,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-12/raw/machine.png"
+        },
+        {
+            "id": 91,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-6/raw/machine.png"
+        },
+        {
+            "id": 92,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-9/raw/machine.png"
+        },
+        {
+            "id": 93,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-5/raw/machine.png"
+        },
+        {
+            "id": 94,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-13/raw/machine.png"
+        },
+        {
+            "id": 95,
+            "desc": "google-compute-engine-gpu",
+            "tags": [
+                "google",
+                "compute",
+                "engine",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/google/compute-engine/gpu/16/node-4/raw/machine.png"
+        }
+    ]
+}

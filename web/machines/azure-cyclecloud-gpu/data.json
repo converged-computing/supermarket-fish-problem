@@ -1,0 +1,664 @@
+{
+    "gallery": [
+        {
+            "id": 0,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-0/raw/machine.svg"
+        },
+        {
+            "id": 1,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-3/raw/machine.svg"
+        },
+        {
+            "id": 2,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-2/raw/machine.svg"
+        },
+        {
+            "id": 3,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-7/raw/machine.svg"
+        },
+        {
+            "id": 4,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-1/raw/machine.svg"
+        },
+        {
+            "id": 5,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-6/raw/machine.svg"
+        },
+        {
+            "id": 6,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-5/raw/machine.svg"
+        },
+        {
+            "id": 7,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/8/node-4/raw/machine.svg"
+        },
+        {
+            "id": 8,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-0/raw/machine.svg"
+        },
+        {
+            "id": 9,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-15/raw/machine.svg"
+        },
+        {
+            "id": 10,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-3/raw/machine.svg"
+        },
+        {
+            "id": 11,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-2/raw/machine.svg"
+        },
+        {
+            "id": 12,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-23/raw/machine.svg"
+        },
+        {
+            "id": 13,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-10/raw/machine.svg"
+        },
+        {
+            "id": 14,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-8/raw/machine.svg"
+        },
+        {
+            "id": 15,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-20/raw/machine.svg"
+        },
+        {
+            "id": 16,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-14/raw/machine.svg"
+        },
+        {
+            "id": 17,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-7/raw/machine.svg"
+        },
+        {
+            "id": 18,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-18/raw/machine.svg"
+        },
+        {
+            "id": 19,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-17/raw/machine.svg"
+        },
+        {
+            "id": 20,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-21/raw/machine.svg"
+        },
+        {
+            "id": 21,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-31/raw/machine.svg"
+        },
+        {
+            "id": 22,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-22/raw/machine.svg"
+        },
+        {
+            "id": 23,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-25/raw/machine.svg"
+        },
+        {
+            "id": 24,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-27/raw/machine.svg"
+        },
+        {
+            "id": 25,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-11/raw/machine.svg"
+        },
+        {
+            "id": 26,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-1/raw/machine.svg"
+        },
+        {
+            "id": 27,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-12/raw/machine.svg"
+        },
+        {
+            "id": 28,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-19/raw/machine.svg"
+        },
+        {
+            "id": 29,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-6/raw/machine.svg"
+        },
+        {
+            "id": 30,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-29/raw/machine.svg"
+        },
+        {
+            "id": 31,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-26/raw/machine.svg"
+        },
+        {
+            "id": 32,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-16/raw/machine.svg"
+        },
+        {
+            "id": 33,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-9/raw/machine.svg"
+        },
+        {
+            "id": 34,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-24/raw/machine.svg"
+        },
+        {
+            "id": 35,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-5/raw/machine.svg"
+        },
+        {
+            "id": 36,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-30/raw/machine.svg"
+        },
+        {
+            "id": 37,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-28/raw/machine.svg"
+        },
+        {
+            "id": 38,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-13/raw/machine.svg"
+        },
+        {
+            "id": 39,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "32"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/32/node-4/raw/machine.svg"
+        },
+        {
+            "id": 40,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/4/node-0/raw/machine.svg"
+        },
+        {
+            "id": 41,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/4/node-3/raw/machine.svg"
+        },
+        {
+            "id": 42,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/4/node-2/raw/machine.svg"
+        },
+        {
+            "id": 43,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "4"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/4/node-1/raw/machine.svg"
+        },
+        {
+            "id": 44,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-0/raw/machine.svg"
+        },
+        {
+            "id": 45,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-15/raw/machine.svg"
+        },
+        {
+            "id": 46,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-3/raw/machine.svg"
+        },
+        {
+            "id": 47,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-2/raw/machine.svg"
+        },
+        {
+            "id": 48,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-10/raw/machine.svg"
+        },
+        {
+            "id": 49,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-8/raw/machine.svg"
+        },
+        {
+            "id": 50,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-14/raw/machine.svg"
+        },
+        {
+            "id": 51,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-7/raw/machine.svg"
+        },
+        {
+            "id": 52,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-11/raw/machine.svg"
+        },
+        {
+            "id": 53,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-1/raw/machine.svg"
+        },
+        {
+            "id": 54,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-12/raw/machine.svg"
+        },
+        {
+            "id": 55,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-6/raw/machine.svg"
+        },
+        {
+            "id": 56,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-9/raw/machine.svg"
+        },
+        {
+            "id": 57,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-5/raw/machine.svg"
+        },
+        {
+            "id": 58,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-13/raw/machine.svg"
+        },
+        {
+            "id": 59,
+            "desc": "azure-cyclecloud-gpu",
+            "tags": [
+                "azure",
+                "cyclecloud",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/azure/cyclecloud/gpu/16/node-4/raw/machine.svg"
+        }
+    ]
+}

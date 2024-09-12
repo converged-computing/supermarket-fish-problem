@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>What kind of fish? Exploring the unexpected surprises of cloud compute instances</title>
+  <style>
+:root {
+  --color: royalblue;
+}
+
+html {
+  display:grid;
+  place-items:center;
+  min-height:100vh;
+  background:#111;
+  overflow:hidden;
+  font-family:sans-serif;
+  color:#333;
+}
+
+li a {
+  color: white;
+}
+
+#link_box {
+  position: relative;
+  padding-left: 200px;]
+  color: white;
+}
+#fish_box {
+  width:200px;
+  height:200px;
+  position:relative;
+  transform-origin:center top;
+  transform:scale(2);
+  animation:bob 5s linear infinite;
+}
+@keyframes bob {
+  50% { transform:scale(2) translateY(5%); }
+}
+
+.light {
+  content:'';
+  width:20px;
+  height:20px;
+  background:var(--color);
+  position:absolute;
+  left:14px;
+  top:-36px;
+  border-radius:1px 50% 50% 50%;
+  box-shadow:
+    inset 3px 3px 3px rgba(0,0,0,.25),
+    0 0 100px 50px var(--color);
+  transform:rotate(45deg);
+  z-indeX:9999;
+  opacity:.5;
+  transition:.5s;
+  filter:blur(1px);
+}
+
+.light:hover {
+  opacity:1 !important;
+  filter:blur(0px);
+}
+.light:hover ~ div {
+  opacity:1 !important;
+}
+
+#fish {
+  width:200px;
+  height:200px;
+  position:relative;
+  transform:rotate(45deg);
+  opacity:0;
+  transition:1s;
+}
+#fish:before {
+  content:'';
+  width:200px;
+  height:200px;
+  background:
+    radial-gradient(circle at 25% 35%, var(--color) 7px, transparent 10px),
+    #333;
+  border-radius:100px 10px 100px 100px;
+  position:absolute;
+  left:0;
+  top:0;
+  clip-path:polygon(0% 100%, 50% 65%, 0% 35%, 0% 0%, 100% 0%, 100% 100%, 0% 100%);
+  box-shadow:inset -20px 0 rgba(0,0,0,.15);
+  animation:mouth 5s linear infinite;
+}
+@keyframes mouth {
+  50% { clip-path:polygon(0% 85%, 50% 65%, 0% 45%, 0% 0%, 100% 0%, 100% 100%, 0% 100%); }
+}
+
+.light_dongle {
+  width:75px;
+  height:50px;
+  background:transparent;
+  border-radius:40px 0 0 40px;
+  position:absolute;
+  top:25px;
+  left:-55px;
+  box-shadow:inset 3px 3px #333;
+  transform:rotate(15deg);
+}
+
+.fin {
+  width:75px;
+  height:40px;  
+  position:absolute;
+}
+
+.top {
+  right:30px;
+  top:-40px;
+  background:
+    linear-gradient(to right, white 6%, transparent 6%, transparent 94%, white 94%),
+    linear-gradient(to bottom, transparent 30px, rgba(0,0,0,.25) 30px),
+    linear-gradient(to bottom, transparent 5px, var(--color) 5px);
+  background-size:25% 100%, 100% 100%, 100% 100%;
+  background-position:0 0, 0 0;
+  background-repeat:repeat-x, no-repeat;
+}
+.bottom {
+  right:-58px;
+  top:48px;
+  transform:rotate(90deg);  
+  background:
+    linear-gradient(to right, white 6%, transparent 6%, transparent 94%, white 94%),
+    linear-gradient(to top, rgba(0,0,0,.25) 35px, transparent 35px),
+    linear-gradient(to bottom, transparent 5px, var(--color) 5px);
+  background-size:25% 100%, 100% 100%, 100% 100%;
+  background-position:0 0, 0 0;
+  background-repeat:repeat-x, no-repeat;
+}
+
+.tail {
+  width:75px;
+  height:75px;
+  background:
+    conic-gradient(at 0% 100%, white 4deg, transparent 4deg 21.5deg, white 21.5deg 24.5deg, 
+      transparent 21deg 43deg, white 43deg 47deg, transparent 47deg 65.5deg, white 65.5deg 69.5deg, transparent 69.5deg 86deg, white 86deg),
+    radial-gradient(circle at 0% 100%, rgba(0,0,0,.25) 25%, transparent 25%),
+    radial-gradient(circle at 0% 100%, var(--color) 67%, transparent 67%);  
+
+}
+
+.back {
+  float:right;
+  margin-right:-60px;
+  margin-top:-60px;
+  border-radius:0 100px 0 0;
+}
+
+.middle {
+  position:absolute;
+  left:65%;
+  top:0%;
+  transform:scale(.6);
+  filter:drop-shadow(10px 0px 5px rgba(0,0,0,.25));
+  border-radius:0 100px 0 10px;
+  transform-origin:0% 100%;
+  animation:flap 5s linear infinite;
+}
+@keyframes flap {
+  50% { transform:scale(.6) rotateX(35deg) rotateY(45deg); }
+}
+
+.teeth {
+  width:75px;
+  height:30px;
+  background:linear-gradient(to bottom, white 75%, gray);    
+  position:absolute;  
+  clip-path:polygon(0% 100%, 0% 0%, 15% 100%, 25% 100%, 25% 15%, 40% 100%, 50% 100%, 50% 30%, 65% 100%, 75% 100%, 75% 45%, 90% 100%);
+  z-index:-1;
+}
+
+.upper {
+  transform:rotate(31deg) scaleY(-1) skewX(-40deg);
+  top: 48%;
+  left: 2px;
+}
+
+.lower {
+  top:63%;
+  left:20px;
+  transform:rotate(-35deg);
+
+</style>
+</head>
+<body>
+<p style="color:white">What kind of fish?</p>
+<div id="link_box">
+   <ul>
+     <li><a href="aws-eks-cpu" target="_blank">AWS EKS CPU</li>
+     <li><a href="aws-eks-gpu" target="_blank">AWS EKS GPU</a></li>
+     <li><a href="aws-parallel-cluster-cpu" target="_blank">AWS Parallel Cluster CPU</a></li>
+     <li><a href="azure-aks-cpu" target="_blank">Azure AKS CPU</a></li>
+     <li><a href="azure-aks-gpu" target="_blank">Azure AKS GPU</a></li>
+     <li><a href="azure-cyclecloud-cpu" target="_blank">Azure CycleCloud CPU</a></li>
+     <li><a href="azure-cyclecloud-gpu" target="_blank">Azure CycleCloud GPU</a></li>
+     <li><a href="google-compute-engine-cpu" target="_blank">Google Compute Engine CPU</a></li>
+     <li><a href="google-compute-engine-gpu" target="_blank">Google Compute Engine GPU</a></li>
+     <li><a href="google-gke-cpu" target="_blank">Google GKE CPU</a></li>
+     <li><a href="google-gke-gpu" target="_blank">Google GKE GPU</a></li>
+  </ul>
+</div>
+<div id='fish_box'>
+  <div class='light'></div>
+  <div id='fish'>
+    <div class='light_dongle'></div>
+    <div class='fin top'></div>
+    <div class='fin bottom'></div>
+    <div class='tail back'></div>
+    <div class='tail middle'></div>
+    <div class='teeth upper'></div>
+    <div class='teeth lower'></div>
+  </div>
+</div>
+
+</body>
+</html>

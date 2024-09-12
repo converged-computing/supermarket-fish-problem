@@ -1,0 +1,268 @@
+{
+    "gallery": [
+        {
+            "id": 0,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-0/raw/machine.svg"
+        },
+        {
+            "id": 1,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-3/raw/machine.svg"
+        },
+        {
+            "id": 2,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-2/raw/machine.svg"
+        },
+        {
+            "id": 3,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-7/raw/machine.svg"
+        },
+        {
+            "id": 4,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-1/raw/machine.svg"
+        },
+        {
+            "id": 5,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-6/raw/machine.svg"
+        },
+        {
+            "id": 6,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-5/raw/machine.svg"
+        },
+        {
+            "id": 7,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "8"
+            ],
+            "src": "../../../data/aws/eks/gpu/8/node-4/raw/machine.svg"
+        },
+        {
+            "id": 8,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-0/raw/machine.svg"
+        },
+        {
+            "id": 9,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-15/raw/machine.svg"
+        },
+        {
+            "id": 10,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-3/raw/machine.svg"
+        },
+        {
+            "id": 11,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-2/raw/machine.svg"
+        },
+        {
+            "id": 12,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-10/raw/machine.svg"
+        },
+        {
+            "id": 13,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-8/raw/machine.svg"
+        },
+        {
+            "id": 14,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-14/raw/machine.svg"
+        },
+        {
+            "id": 15,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-7/raw/machine.svg"
+        },
+        {
+            "id": 16,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-11/raw/machine.svg"
+        },
+        {
+            "id": 17,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-1/raw/machine.svg"
+        },
+        {
+            "id": 18,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-12/raw/machine.svg"
+        },
+        {
+            "id": 19,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-6/raw/machine.svg"
+        },
+        {
+            "id": 20,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-9/raw/machine.svg"
+        },
+        {
+            "id": 21,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-5/raw/machine.svg"
+        },
+        {
+            "id": 22,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-13/raw/machine.svg"
+        },
+        {
+            "id": 23,
+            "desc": "aws-eks-gpu",
+            "tags": [
+                "aws",
+                "eks",
+                "gpu",
+                "16"
+            ],
+            "src": "../../../data/aws/eks/gpu/16/node-4/raw/machine.svg"
+        }
+    ]
+}
