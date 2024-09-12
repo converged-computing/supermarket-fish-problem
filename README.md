@@ -6,6 +6,10 @@ This is part of the [Performance study](https://github.com/converged-computing/p
 
 Have you ever been to the supermarket and ordered white fish? You may be getting tilapia, flounder, branzino, catfish, cod, haddock, hake, halibut, pollock, sea bass, sole, or whiting. The same is true for cloud CPU architectures. You may know that you are getting some flavor of Intel, but it's unclear if it's Skylake, Icelake, Sandy Bridge, or some other flavor. We did a large [performance study](https://github.com/converged-computing/performance-study) in August 2024 that looked across many different environments, clouds, and instance types, and can now reflect on what we found. In the case of finding a potpourri of architectures, we call this the supermarket fish problem.
 
+ - 🐠🐟 [View the Fish!](https://converged-computing.org/supermarket-fish-problem/web/machines/)
+
+**Under development** data processing is underway - a table will be added to each view!
+
 ## Generate
 
 Make some pngs (they render better in react):
