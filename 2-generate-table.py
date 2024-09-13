@@ -162,9 +162,28 @@ def parse_data(indir, outdir, files):
                 summary[data_file + "-processors"] = procs
 
     # Next we will want to save this to data for a table
+    flat = []
     for environment, result in data.items():
         save_file = os.path.join(outdir, environment, "summary-data.json")
         write_json(result, save_file)
+        # Create flattened version
+        for field, values in result.items():
+            for attribute, counts in values.items():
+                for value, count in counts.items():
+                    flat.append(
+                        {
+                            "environment": environment,
+                            "collection": field,
+                            "attribute": attribute,
+                            "value": value,
+                            "count": count,
+                        }
+                    )
+    table_dir = os.path.join(outdir, "table")
+    if not os.path.exists(table_dir):
+        os.makedirs(table_dir)
+    save_file = os.path.join(table_dir, "data.json")
+    write_json(flat, save_file)
 
 
 def summarize_lscpu(data, items, collector, prefix):

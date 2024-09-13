@@ -1,0 +1,2942 @@
+[
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7B13",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "0",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "28",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "28",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 56,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-55",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7B13",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 28,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 0,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.98,
+        "count": 195
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.99,
+        "count": 330
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6100.0,
+        "count": 6
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.97,
+        "count": 2
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 533
+    },
+    {
+        "environment": "google-gke-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 2,
+        "count": 533
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "6",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "63",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU @ 2.30GHz",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "0",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "46080 KB",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "16",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "16",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 16,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-15",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU @ 2.30GHz",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 6,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 63,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 16,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 0,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 4599.99,
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 64
+    },
+    {
+        "environment": "google-gke-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7B13",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "0",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "56",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "28",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 112,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-111",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7B13",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 2,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 28,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 0,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6100.02,
+        "count": 2
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.99,
+        "count": 298
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.98,
+        "count": 175
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6100.0,
+        "count": 3
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 6099.97,
+        "count": 1
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 2,
+        "count": 479
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "6",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "63",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU @ 2.30GHz",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "0",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "46080 KB",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "16",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "16",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 16,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-15",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU @ 2.30GHz",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 6,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 63,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 16,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 0,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 4599.99,
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 64
+    },
+    {
+        "environment": "google-compute-engine-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 1,
+        "count": 64
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7R13 Processor",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "1",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xa0011d5",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "48",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "48",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "16",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 96,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-95",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7R13 Processor",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 48,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 1,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5299.99,
+        "count": 485
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5299.98,
+        "count": 7
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5300.0,
+        "count": 264
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5300.02,
+        "count": 1
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 4,
+        "count": 757
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "6",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "85",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "4",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0x2007006",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "33792 KB",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "48",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "24",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 96,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-95",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 6,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 85,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 2,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 24,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 4,
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 4999.99,
+        "count": 19
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 4999.98,
+        "count": 2
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5000.01,
+        "count": 2
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5000.0,
+        "count": 1
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 24
+    },
+    {
+        "environment": "aws-eks-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 2,
+        "count": 24
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7R13 Processor",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "1",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xa0011d5",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "48",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "48",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "16",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 96,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-95",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7R13 Processor",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 48,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 1,
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5299.99,
+        "count": 67
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5300.0,
+        "count": 29
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "KVM",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 96
+    },
+    {
+        "environment": "aws-parallel-cluster-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 4,
+        "count": 96
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7V73X 64-Core Processor",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "2",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "48",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "48",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 96,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-95",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7V73X 64-Core Processor",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 48,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 2,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.09,
+        "count": 156
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.11,
+        "count": 81
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.1,
+        "count": 239
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.08,
+        "count": 3
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.12,
+        "count": 1
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "Microsoft",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 4,
+        "count": 480
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "6",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "85",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "4",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "33792 KB",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "20",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "20",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "21",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 40,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-39",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 6,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 85,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 20,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 4,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5387.34,
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "Microsoft",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 60
+    },
+    {
+        "environment": "azure-cyclecloud-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 2,
+        "count": 60
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "25",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "1",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7V73X 64-Core Processor",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "2",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "512 KB",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "48",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "48",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "13",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "tlb_size",
+        "value": "2560 4K pages",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "48 bits physical, 48 bits virtual",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 96,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-95",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "AuthenticAMD",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "AMD EPYC 7V73X 64-Core Processor",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 25,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 1,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 48,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 2,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.1,
+        "count": 348
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.09,
+        "count": 170
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.11,
+        "count": 135
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.08,
+        "count": 4
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 3693.12,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "Microsoft",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-cpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 4,
+        "count": 658
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_family",
+        "value": "6",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "85",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model",
+        "value": "79",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "4",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "stepping",
+        "value": "1",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "microcode",
+        "value": "0xffffffff",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "33792 KB",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_size",
+        "value": "51200 KB",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "20",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "siblings",
+        "value": "2",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "20",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpu_cores",
+        "value": "1",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu",
+        "value": "yes",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "fpu_exception",
+        "value": "yes",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "21",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cpuid_level",
+        "value": "20",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "wp",
+        "value": "yes",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "clflush_size",
+        "value": "64",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "cache_alignment",
+        "value": "64",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "cat-proc-cpuinfo",
+        "attribute": "vmx_flags",
+        "value": "vnmi invvpid tsc_offset vtpr ept vpid",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "architecture",
+        "value": "x86_64",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_op-mode(s)",
+        "value": "32-bit, 64-bit",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "address_sizes",
+        "value": "46 bits physical, 48 bits virtual",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "byte_order",
+        "value": "Little Endian",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 40,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu(s)",
+        "value": 2,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0-39",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "on-line_cpu(s)_list",
+        "value": "0,1",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "vendor_id",
+        "value": "GenuineIntel",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "model_name",
+        "value": "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "cpu_family",
+        "value": 6,
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 85,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "model",
+        "value": 79,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 1,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "thread(s)_per_core",
+        "value": 2,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 20,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "core(s)_per_socket",
+        "value": 1,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 2,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "socket(s)",
+        "value": 1,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 4,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "stepping",
+        "value": 1,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 5387.34,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "bogomips",
+        "value": 4589.36,
+        "count": 1
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "hypervisor_vendor",
+        "value": "Microsoft",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "virtualization_type",
+        "value": "full",
+        "count": 44
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 2,
+        "count": 43
+    },
+    {
+        "environment": "azure-aks-gpu",
+        "collection": "lscpu",
+        "attribute": "numa_node(s)",
+        "value": 1,
+        "count": 1
+    }
+]

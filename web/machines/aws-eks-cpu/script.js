@@ -142,6 +142,63 @@ React.createElement("img", {
   src: props.src,
   alt: props.name });
 
-
 // Render app
 ReactDOM.render( /*#__PURE__*/React.createElement(App, null), document.getElementById('app'));
+
+
+$(function () {
+    $.ajax({
+        url: "https://jsonplaceholder.typicode.com/users",
+        type: "GET",
+        success: function (data) {
+            var table = $("#datatable-json").DataTable({                               
+                "ordering": true,
+                "paging": true,
+                "info": true,
+                "scrollX": true,
+                "scrollCollapse": true,
+                "lengthMenu": [
+				    [5, 10, 20, 30, 50, 80, -1],
+				    [5, 10, 20, 30, 50, 80, "Tudo"]
+			    ],
+
+                "columnDefs": [{
+                    targets: "no-sort",
+                    orderable: false
+                }],
+                            
+                data: data,
+                columns: [
+                    { 
+                        data: "id", 
+                        "width": "60px",
+                        "class": "text-center",
+                    },
+                    { 
+                        data: "name",
+                        "width": "160px",
+                    },
+                    { 
+                        data: "username",
+                        "width": "80px",
+                    },
+                    { 
+                        data: "email",
+                        "width": "100px",
+                    },
+                    { 
+                        data: "address.zipcode",
+                        "width": "100px",
+                    }                                       
+                ],
+                responsive: true
+            });            
+            table.on( 'draw', function () {
+                $('[rel="tooltip"]').tooltip({
+                     boundary: 'window',
+                });
+            });
+                     
+        }
+    });
+});
