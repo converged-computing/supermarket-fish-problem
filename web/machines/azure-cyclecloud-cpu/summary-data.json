@@ -1,0 +1,115 @@
+{
+    "cat-proc-cpuinfo": {
+        "vendor_id": {
+            "AuthenticAMD": 480
+        },
+        "cpu_family": {
+            "25": 480
+        },
+        "model": {
+            "1": 480
+        },
+        "model_name": {
+            "AMD EPYC 7V73X 64-Core Processor": 480
+        },
+        "stepping": {
+            "2": 480
+        },
+        "microcode": {
+            "0xffffffff": 480
+        },
+        "cache_size": {
+            "512 KB": 480
+        },
+        "siblings": {
+            "48": 480
+        },
+        "cpu_cores": {
+            "48": 480
+        },
+        "fpu": {
+            "yes": 480
+        },
+        "fpu_exception": {
+            "yes": 480
+        },
+        "cpuid_level": {
+            "13": 480
+        },
+        "wp": {
+            "yes": 480
+        },
+        "tlb_size": {
+            "2560 4K pages": 480
+        },
+        "clflush_size": {
+            "64": 480
+        },
+        "cache_alignment": {
+            "64": 480
+        },
+        "address_sizes": {
+            "48 bits physical, 48 bits virtual": 480
+        }
+    },
+    "lscpu": {
+        "architecture": {
+            "x86_64": 480
+        },
+        "cpu_op-mode(s)": {
+            "32-bit, 64-bit": 480
+        },
+        "address_sizes": {
+            "48 bits physical, 48 bits virtual": 480
+        },
+        "byte_order": {
+            "Little Endian": 480
+        },
+        "cpu(s)": {
+            "96": 480
+        },
+        "on-line_cpu(s)_list": {
+            "0-95": 480
+        },
+        "vendor_id": {
+            "AuthenticAMD": 480
+        },
+        "model_name": {
+            "AMD EPYC 7V73X 64-Core Processor": 480
+        },
+        "cpu_family": {
+            "25": 480
+        },
+        "model": {
+            "1": 480
+        },
+        "thread(s)_per_core": {
+            "1": 480
+        },
+        "core(s)_per_socket": {
+            "48": 480
+        },
+        "socket(s)": {
+            "2": 480
+        },
+        "stepping": {
+            "2": 480
+        },
+        "bogomips": {
+            "3693.09": 156,
+            "3693.11": 81,
+            "3693.1": 239,
+            "3693.08": 3,
+            "3693.12": 1
+        },
+        "hypervisor_vendor": {
+            "Microsoft": 480
+        },
+        "virtualization_type": {
+            "full": 480
+        },
+        "numa_node(s)": {
+            "4": 480
+        }
+    }
+}

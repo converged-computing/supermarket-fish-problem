@@ -1,0 +1,108 @@
+{
+    "cat-proc-cpuinfo": {
+        "vendor_id": {
+            "GenuineIntel": 60
+        },
+        "cpu_family": {
+            "6": 60
+        },
+        "model": {
+            "85": 60
+        },
+        "model_name": {
+            "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 60
+        },
+        "stepping": {
+            "4": 60
+        },
+        "microcode": {
+            "0xffffffff": 60
+        },
+        "cache_size": {
+            "33792 KB": 60
+        },
+        "siblings": {
+            "20": 60
+        },
+        "cpu_cores": {
+            "20": 60
+        },
+        "fpu": {
+            "yes": 60
+        },
+        "fpu_exception": {
+            "yes": 60
+        },
+        "cpuid_level": {
+            "21": 60
+        },
+        "wp": {
+            "yes": 60
+        },
+        "clflush_size": {
+            "64": 60
+        },
+        "cache_alignment": {
+            "64": 60
+        },
+        "address_sizes": {
+            "46 bits physical, 48 bits virtual": 60
+        }
+    },
+    "lscpu": {
+        "architecture": {
+            "x86_64": 60
+        },
+        "cpu_op-mode(s)": {
+            "32-bit, 64-bit": 60
+        },
+        "address_sizes": {
+            "46 bits physical, 48 bits virtual": 60
+        },
+        "byte_order": {
+            "Little Endian": 60
+        },
+        "cpu(s)": {
+            "40": 60
+        },
+        "on-line_cpu(s)_list": {
+            "0-39": 60
+        },
+        "vendor_id": {
+            "GenuineIntel": 60
+        },
+        "model_name": {
+            "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 60
+        },
+        "cpu_family": {
+            "6": 60
+        },
+        "model": {
+            "85": 60
+        },
+        "thread(s)_per_core": {
+            "1": 60
+        },
+        "core(s)_per_socket": {
+            "20": 60
+        },
+        "socket(s)": {
+            "2": 60
+        },
+        "stepping": {
+            "4": 60
+        },
+        "bogomips": {
+            "5387.34": 60
+        },
+        "hypervisor_vendor": {
+            "Microsoft": 60
+        },
+        "virtualization_type": {
+            "full": 60
+        },
+        "numa_node(s)": {
+            "2": 60
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "cat-proc-cpuinfo": {
+        "vendor_id": {
+            "GenuineIntel": 44
+        },
+        "cpu_family": {
+            "6": 44
+        },
+        "model": {
+            "85": 43,
+            "79": 1
+        },
+        "model_name": {
+            "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 43,
+            "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz": 1
+        },
+        "stepping": {
+            "4": 43,
+            "1": 1
+        },
+        "microcode": {
+            "0xffffffff": 44
+        },
+        "cache_size": {
+            "33792 KB": 43,
+            "51200 KB": 1
+        },
+        "siblings": {
+            "20": 43,
+            "2": 1
+        },
+        "cpu_cores": {
+            "20": 43,
+            "1": 1
+        },
+        "fpu": {
+            "yes": 44
+        },
+        "fpu_exception": {
+            "yes": 44
+        },
+        "cpuid_level": {
+            "21": 43,
+            "20": 1
+        },
+        "wp": {
+            "yes": 44
+        },
+        "clflush_size": {
+            "64": 44
+        },
+        "cache_alignment": {
+            "64": 44
+        },
+        "address_sizes": {
+            "46 bits physical, 48 bits virtual": 44
+        },
+        "vmx_flags": {
+            "vnmi invvpid tsc_offset vtpr ept vpid": 1
+        }
+    },
+    "lscpu": {
+        "architecture": {
+            "x86_64": 44
+        },
+        "cpu_op-mode(s)": {
+            "32-bit, 64-bit": 44
+        },
+        "address_sizes": {
+            "46 bits physical, 48 bits virtual": 44
+        },
+        "byte_order": {
+            "Little Endian": 44
+        },
+        "cpu(s)": {
+            "40": 43,
+            "2": 1
+        },
+        "on-line_cpu(s)_list": {
+            "0-39": 43,
+            "0,1": 1
+        },
+        "vendor_id": {
+            "GenuineIntel": 44
+        },
+        "model_name": {
+            "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 43,
+            "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz": 1
+        },
+        "cpu_family": {
+            "6": 44
+        },
+        "model": {
+            "85": 43,
+            "79": 1
+        },
+        "thread(s)_per_core": {
+            "1": 43,
+            "2": 1
+        },
+        "core(s)_per_socket": {
+            "20": 43,
+            "1": 1
+        },
+        "socket(s)": {
+            "2": 43,
+            "1": 1
+        },
+        "stepping": {
+            "4": 43,
+            "1": 1
+        },
+        "bogomips": {
+            "5387.34": 43,
+            "4589.36": 1
+        },
+        "hypervisor_vendor": {
+            "Microsoft": 44
+        },
+        "virtualization_type": {
+            "full": 44
+        },
+        "numa_node(s)": {
+            "2": 43,
+            "1": 1
+        }
+    }
+}
