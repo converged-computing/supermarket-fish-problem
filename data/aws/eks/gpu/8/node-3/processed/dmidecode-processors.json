@@ -1,0 +1,53 @@
+{
+    "Type": {
+        "Central Processor": 2
+    },
+    "Family": {
+        "Xeon": 2
+    },
+    "Manufacturer": {
+        "Intel(R) Corporation": 2
+    },
+    "ID": {
+        "54 06 05 00 FF FB EB BF": 2
+    },
+    "Signature": {
+        "Type 0, Family 6, Model 85, Stepping 4": 2
+    },
+    "Version": {
+        "Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz": 2
+    },
+    "Voltage": {
+        "1.6 V": 2
+    },
+    "External Clock": {
+        "100 MHz": 2
+    },
+    "Max Speed": {
+        "3500 MHz": 2
+    },
+    "Current Speed": {
+        "2500 MHz": 2
+    },
+    "Status": {
+        "Populated, Enabled": 2
+    },
+    "Upgrade": {
+        "Socket LGA3647-1": 2
+    },
+    "Serial Number": {
+        "Not Specified": 2
+    },
+    "Asset Tag": {
+        "Not Specified": 2
+    },
+    "Part Number": {
+        "Not Specified": 2
+    },
+    "Core Count": {
+        "24": 2
+    },
+    "Thread Count": {
+        "48": 2
+    }
+}

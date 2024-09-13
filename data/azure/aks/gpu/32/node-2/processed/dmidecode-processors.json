@@ -1,0 +1,56 @@
+{
+    "Type": {
+        "Central Processor": 2
+    },
+    "Family": {
+        "Xeon": 2
+    },
+    "Manufacturer": {
+        "Intel(R) Corporation": 2
+    },
+    "ID": {
+        "00 00 00 00 00 00 00 00": 2
+    },
+    "Signature": {
+        "Type 0, Family 0, Model 0, Stepping 0": 2
+    },
+    "Flags": {
+        "None": 2
+    },
+    "Version": {
+        "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 2
+    },
+    "Voltage": {
+        "1.6 V": 2
+    },
+    "External Clock": {
+        "100 MHz": 2
+    },
+    "Max Speed": {
+        "3700 MHz": 2
+    },
+    "Current Speed": {
+        "2700 MHz": 2
+    },
+    "Status": {
+        "Populated, Enabled": 2
+    },
+    "Upgrade": {
+        "None": 2
+    },
+    "Serial Number": {
+        "None": 2
+    },
+    "Asset Tag": {
+        "None": 2
+    },
+    "Part Number": {
+        "None": 2
+    },
+    "Core Count": {
+        "32": 2
+    },
+    "Thread Count": {
+        "1": 2
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "Type": {
+        "Central Processor": 2
+    },
+    "Family": {
+        "Zen": 2
+    },
+    "Manufacturer": {
+        "Advanced Micro Devices, Inc.": 2
+    },
+    "ID": {
+        "00 00 00 00 00 00 00 00": 2
+    },
+    "Signature": {
+        "Family 0, Model 0, Stepping 0": 2
+    },
+    "Flags": {
+        "None": 2
+    },
+    "Version": {
+        "AMD EPYC 7V73X 64-Core Processor": 2
+    },
+    "Voltage": {
+        "1.1 V": 2
+    },
+    "External Clock": {
+        "100 MHz": 2
+    },
+    "Max Speed": {
+        "3525 MHz": 2
+    },
+    "Current Speed": {
+        "1850 MHz": 2
+    },
+    "Status": {
+        "Populated, Enabled": 2
+    },
+    "Upgrade": {
+        "None": 2
+    },
+    "Serial Number": {
+        "None": 2
+    },
+    "Asset Tag": {
+        "None": 2
+    },
+    "Part Number": {
+        "None": 2
+    },
+    "Core Count": {
+        "64": 2
+    },
+    "Thread Count": {
+        "1": 2
+    }
+}

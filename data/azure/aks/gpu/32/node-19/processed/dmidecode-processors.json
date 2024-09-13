@@ -1,0 +1,56 @@
+{
+    "Type": {
+        "Central Processor": 1
+    },
+    "Family": {
+        "Xeon": 1
+    },
+    "Manufacturer": {
+        "Intel": 1
+    },
+    "ID": {
+        "00 00 00 00 00 00 00 00": 1
+    },
+    "Signature": {
+        "Type 0, Family 0, Model 0, Stepping 0": 1
+    },
+    "Flags": {
+        "None": 1
+    },
+    "Version": {
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz": 1
+    },
+    "Voltage": {
+        "0.0 V": 1
+    },
+    "External Clock": {
+        "100 MHz": 1
+    },
+    "Max Speed": {
+        "2300 MHz": 1
+    },
+    "Current Speed": {
+        "2300 MHz": 1
+    },
+    "Status": {
+        "Populated, Enabled": 1
+    },
+    "Upgrade": {
+        "None": 1
+    },
+    "Serial Number": {
+        "None": 1
+    },
+    "Asset Tag": {
+        "None": 1
+    },
+    "Part Number": {
+        "None": 1
+    },
+    "Core Count": {
+        "2": 1
+    },
+    "Thread Count": {
+        "2": 1
+    }
+}

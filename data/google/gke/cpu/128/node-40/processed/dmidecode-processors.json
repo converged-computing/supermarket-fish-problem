@@ -1,0 +1,35 @@
+{
+    "Type": {
+        "Central Processor": 56
+    },
+    "Family": {
+        "Other": 56
+    },
+    "Manufacturer": {
+        "Google": 56
+    },
+    "ID": {
+        "10 0F A0 00 FF FB 8B 17": 56
+    },
+    "Version": {
+        "Not Specified": 56
+    },
+    "Voltage": {
+        "Unknown": 56
+    },
+    "External Clock": {
+        "Unknown": 56
+    },
+    "Max Speed": {
+        "2000 MHz": 56
+    },
+    "Current Speed": {
+        "2000 MHz": 56
+    },
+    "Status": {
+        "Populated, Enabled": 56
+    },
+    "Upgrade": {
+        "Other": 56
+    }
+}

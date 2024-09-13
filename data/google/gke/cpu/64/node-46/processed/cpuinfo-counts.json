@@ -1,0 +1,160 @@
+{
+    "vendor_id": {
+        "AuthenticAMD": 55
+    },
+    "cpu family": {
+        "25": 55
+    },
+    "model": {
+        "1": 55
+    },
+    "model name": {
+        "AMD EPYC 7B13": 55
+    },
+    "stepping": {
+        "0": 55
+    },
+    "microcode": {
+        "0xffffffff": 55
+    },
+    "cache size": {
+        "512 KB": 55
+    },
+    "siblings": {
+        "28": 55
+    },
+    "cpu cores": {
+        "28": 55
+    },
+    "fpu": {
+        "yes": 55
+    },
+    "fpu_exception": {
+        "yes": 55
+    },
+    "cpuid level": {
+        "13": 55
+    },
+    "wp": {
+        "yes": 55
+    },
+    "flags": {
+        "fpu": 55,
+        "vme": 55,
+        "de": 55,
+        "pse": 55,
+        "tsc": 55,
+        "msr": 55,
+        "pae": 55,
+        "mce": 55,
+        "cx8": 55,
+        "apic": 55,
+        "sep": 55,
+        "mtrr": 55,
+        "pge": 55,
+        "mca": 55,
+        "cmov": 55,
+        "pat": 55,
+        "pse36": 55,
+        "clflush": 55,
+        "mmx": 55,
+        "fxsr": 55,
+        "sse": 55,
+        "sse2": 55,
+        "ht": 55,
+        "syscall": 55,
+        "nx": 55,
+        "mmxext": 55,
+        "fxsr_opt": 55,
+        "pdpe1gb": 55,
+        "rdtscp": 55,
+        "lm": 55,
+        "constant_tsc": 55,
+        "rep_good": 55,
+        "nopl": 55,
+        "nonstop_tsc": 55,
+        "cpuid": 55,
+        "extd_apicid": 55,
+        "tsc_known_freq": 55,
+        "pni": 55,
+        "pclmulqdq": 55,
+        "monitor": 55,
+        "ssse3": 55,
+        "fma": 55,
+        "cx16": 55,
+        "pcid": 55,
+        "sse4_1": 55,
+        "sse4_2": 55,
+        "x2apic": 55,
+        "movbe": 55,
+        "popcnt": 55,
+        "aes": 55,
+        "xsave": 55,
+        "avx": 55,
+        "f16c": 55,
+        "rdrand": 55,
+        "hypervisor": 55,
+        "lahf_lm": 55,
+        "cmp_legacy": 55,
+        "cr8_legacy": 55,
+        "abm": 55,
+        "sse4a": 55,
+        "misalignsse": 55,
+        "3dnowprefetch": 55,
+        "osvw": 55,
+        "topoext": 55,
+        "invpcid_single": 55,
+        "ssbd": 55,
+        "ibrs": 55,
+        "ibpb": 55,
+        "stibp": 55,
+        "vmmcall": 55,
+        "fsgsbase": 55,
+        "tsc_adjust": 55,
+        "bmi1": 55,
+        "avx2": 55,
+        "smep": 55,
+        "bmi2": 55,
+        "erms": 55,
+        "invpcid": 55,
+        "rdseed": 55,
+        "adx": 55,
+        "smap": 55,
+        "clflushopt": 55,
+        "clwb": 55,
+        "sha_ni": 55,
+        "xsaveopt": 55,
+        "xsavec": 55,
+        "xgetbv1": 55,
+        "clzero": 55,
+        "xsaveerptr": 55,
+        "arat": 55,
+        "npt": 55,
+        "nrip_save": 55,
+        "umip": 55,
+        "vaes": 55,
+        "vpclmulqdq": 55,
+        "rdpid": 55,
+        "fsrm": 55
+    },
+    "bugs": {
+        "sysret_ss_attrs": 55,
+        "null_seg": 55,
+        "spectre_v1": 55,
+        "spectre_v2": 55,
+        "spec_store_bypass": 55,
+        "srso": 55
+    },
+    "TLB size": {
+        "2560 4K pages": 55
+    },
+    "clflush size": {
+        "64": 55
+    },
+    "cache_alignment": {
+        "64": 55
+    },
+    "address sizes": {
+        "48 bits physical, 48 bits virtual": 55
+    }
+}

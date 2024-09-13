@@ -1,0 +1,53 @@
+{
+    "Type": {
+        "Central Processor": 2
+    },
+    "Family": {
+        "Zen": 2
+    },
+    "Manufacturer": {
+        "Advanced Micro Devices, Inc.": 2
+    },
+    "ID": {
+        "11 0F A0 00 FF FB 8B 17": 2
+    },
+    "Signature": {
+        "Family 25, Model 1, Stepping 1": 2
+    },
+    "Version": {
+        "AMD EPYC 7R13 Processor": 2
+    },
+    "Voltage": {
+        "1.1 V": 2
+    },
+    "External Clock": {
+        "100 MHz": 2
+    },
+    "Max Speed": {
+        "3725 MHz": 2
+    },
+    "Current Speed": {
+        "2650 MHz": 2
+    },
+    "Status": {
+        "Populated, Enabled": 2
+    },
+    "Upgrade": {
+        "Socket SP3": 2
+    },
+    "Serial Number": {
+        "Not Specified": 2
+    },
+    "Asset Tag": {
+        "Not Specified": 2
+    },
+    "Part Number": {
+        "Not Specified": 2
+    },
+    "Core Count": {
+        "48": 2
+    },
+    "Thread Count": {
+        "48": 2
+    }
+}

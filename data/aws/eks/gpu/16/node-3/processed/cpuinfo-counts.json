@@ -1,0 +1,154 @@
+{
+    "vendor_id": {
+        "GenuineIntel": 95
+    },
+    "cpu family": {
+        "6": 95
+    },
+    "model": {
+        "85": 95
+    },
+    "model name": {
+        "Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz": 95
+    },
+    "stepping": {
+        "4": 95
+    },
+    "microcode": {
+        "0x2007006": 95
+    },
+    "cache size": {
+        "33792 KB": 95
+    },
+    "siblings": {
+        "48": 95
+    },
+    "cpu cores": {
+        "24": 95
+    },
+    "fpu": {
+        "yes": 95
+    },
+    "fpu_exception": {
+        "yes": 95
+    },
+    "cpuid level": {
+        "13": 95
+    },
+    "wp": {
+        "yes": 95
+    },
+    "flags": {
+        "fpu": 95,
+        "vme": 95,
+        "de": 95,
+        "pse": 95,
+        "tsc": 95,
+        "msr": 95,
+        "pae": 95,
+        "mce": 95,
+        "cx8": 95,
+        "apic": 95,
+        "sep": 95,
+        "mtrr": 95,
+        "pge": 95,
+        "mca": 95,
+        "cmov": 95,
+        "pat": 95,
+        "pse36": 95,
+        "clflush": 95,
+        "mmx": 95,
+        "fxsr": 95,
+        "sse": 95,
+        "sse2": 95,
+        "ss": 95,
+        "ht": 95,
+        "syscall": 95,
+        "nx": 95,
+        "pdpe1gb": 95,
+        "rdtscp": 95,
+        "lm": 95,
+        "constant_tsc": 95,
+        "arch_perfmon": 95,
+        "rep_good": 95,
+        "nopl": 95,
+        "xtopology": 95,
+        "nonstop_tsc": 95,
+        "cpuid": 95,
+        "aperfmperf": 95,
+        "tsc_known_freq": 95,
+        "pni": 95,
+        "pclmulqdq": 95,
+        "monitor": 95,
+        "ssse3": 95,
+        "fma": 95,
+        "cx16": 95,
+        "pcid": 95,
+        "sse4_1": 95,
+        "sse4_2": 95,
+        "x2apic": 95,
+        "movbe": 95,
+        "popcnt": 95,
+        "tsc_deadline_timer": 95,
+        "aes": 95,
+        "xsave": 95,
+        "avx": 95,
+        "f16c": 95,
+        "rdrand": 95,
+        "hypervisor": 95,
+        "lahf_lm": 95,
+        "abm": 95,
+        "3dnowprefetch": 95,
+        "invpcid_single": 95,
+        "pti": 95,
+        "fsgsbase": 95,
+        "tsc_adjust": 95,
+        "bmi1": 95,
+        "avx2": 95,
+        "smep": 95,
+        "bmi2": 95,
+        "erms": 95,
+        "invpcid": 95,
+        "mpx": 95,
+        "avx512f": 95,
+        "avx512dq": 95,
+        "rdseed": 95,
+        "adx": 95,
+        "smap": 95,
+        "clflushopt": 95,
+        "clwb": 95,
+        "avx512cd": 95,
+        "avx512bw": 95,
+        "avx512vl": 95,
+        "xsaveopt": 95,
+        "xsavec": 95,
+        "xgetbv1": 95,
+        "xsaves": 95,
+        "ida": 95,
+        "arat": 95,
+        "pku": 95,
+        "ospke": 95
+    },
+    "bugs": {
+        "cpu_meltdown": 95,
+        "spectre_v1": 95,
+        "spectre_v2": 95,
+        "spec_store_bypass": 95,
+        "l1tf": 95,
+        "mds": 95,
+        "swapgs": 95,
+        "itlb_multihit": 95,
+        "mmio_stale_data": 95,
+        "retbleed": 95,
+        "gds": 95
+    },
+    "clflush size": {
+        "64": 95
+    },
+    "cache_alignment": {
+        "64": 95
+    },
+    "address sizes": {
+        "46 bits physical, 48 bits virtual": 95
+    }
+}

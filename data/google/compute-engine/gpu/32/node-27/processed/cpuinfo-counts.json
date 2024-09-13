@@ -1,0 +1,138 @@
+{
+    "vendor_id": {
+        "GenuineIntel": 15
+    },
+    "cpu family": {
+        "6": 15
+    },
+    "model": {
+        "63": 15
+    },
+    "model name": {
+        "Intel(R) Xeon(R) CPU @ 2.30GHz": 15
+    },
+    "stepping": {
+        "0": 15
+    },
+    "microcode": {
+        "0xffffffff": 15
+    },
+    "cache size": {
+        "46080 KB": 15
+    },
+    "siblings": {
+        "16": 15
+    },
+    "cpu cores": {
+        "16": 15
+    },
+    "fpu": {
+        "yes": 15
+    },
+    "fpu_exception": {
+        "yes": 15
+    },
+    "cpuid level": {
+        "13": 15
+    },
+    "wp": {
+        "yes": 15
+    },
+    "flags": {
+        "fpu": 15,
+        "vme": 15,
+        "de": 15,
+        "pse": 15,
+        "tsc": 15,
+        "msr": 15,
+        "pae": 15,
+        "mce": 15,
+        "cx8": 15,
+        "apic": 15,
+        "sep": 15,
+        "mtrr": 15,
+        "pge": 15,
+        "mca": 15,
+        "cmov": 15,
+        "pat": 15,
+        "pse36": 15,
+        "clflush": 15,
+        "mmx": 15,
+        "fxsr": 15,
+        "sse": 15,
+        "sse2": 15,
+        "ss": 15,
+        "ht": 15,
+        "syscall": 15,
+        "nx": 15,
+        "pdpe1gb": 15,
+        "rdtscp": 15,
+        "lm": 15,
+        "constant_tsc": 15,
+        "rep_good": 15,
+        "nopl": 15,
+        "xtopology": 15,
+        "nonstop_tsc": 15,
+        "cpuid": 15,
+        "tsc_known_freq": 15,
+        "pni": 15,
+        "pclmulqdq": 15,
+        "ssse3": 15,
+        "fma": 15,
+        "cx16": 15,
+        "pcid": 15,
+        "sse4_1": 15,
+        "sse4_2": 15,
+        "x2apic": 15,
+        "movbe": 15,
+        "popcnt": 15,
+        "aes": 15,
+        "xsave": 15,
+        "avx": 15,
+        "f16c": 15,
+        "rdrand": 15,
+        "hypervisor": 15,
+        "lahf_lm": 15,
+        "abm": 15,
+        "invpcid_single": 15,
+        "pti": 15,
+        "ssbd": 15,
+        "ibrs": 15,
+        "ibpb": 15,
+        "stibp": 15,
+        "fsgsbase": 15,
+        "tsc_adjust": 15,
+        "bmi1": 15,
+        "avx2": 15,
+        "smep": 15,
+        "bmi2": 15,
+        "erms": 15,
+        "invpcid": 15,
+        "xsaveopt": 15,
+        "arat": 15,
+        "md_clear": 15,
+        "arch_capabilities": 15
+    },
+    "bugs": {
+        "apic_c1e": 15,
+        "cpu_meltdown": 15,
+        "spectre_v1": 15,
+        "spectre_v2": 15,
+        "spec_store_bypass": 15,
+        "l1tf": 15,
+        "mds": 15,
+        "swapgs": 15,
+        "mmio_stale_data": 15,
+        "retbleed": 15,
+        "bhi": 15
+    },
+    "clflush size": {
+        "64": 15
+    },
+    "cache_alignment": {
+        "64": 15
+    },
+    "address sizes": {
+        "46 bits physical, 48 bits virtual": 15
+    }
+}
