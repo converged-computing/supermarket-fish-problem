@@ -101,7 +101,7 @@ def parse_data(indir, outdir, files):
         prefix = "-".join(parts[0:3])
         size = parts[3]
         # This was just testing
-        if prefix == "google-compute-engine-cpu" and size == 2:
+        if "google-compute" in prefix and size == 2:
             continue
 
         if prefix not in dfs:

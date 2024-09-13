@@ -1,132 +1,108 @@
 {
     "cat-proc-cpuinfo": {
         "vendor_id": {
-            "GenuineIntel": 64,
-            "AuthenticAMD": 32
+            "GenuineIntel": 64
         },
         "cpu_family": {
-            "6": 64,
-            "25": 32
+            "6": 64
         },
         "model": {
-            "63": 64,
-            "1": 32
+            "63": 64
         },
         "model_name": {
-            "Intel(R) Xeon(R) CPU @ 2.30GHz": 64,
-            "AMD EPYC 7B13": 32
+            "Intel(R) Xeon(R) CPU @ 2.30GHz": 64
         },
         "stepping": {
-            "0": 96
+            "0": 64
         },
         "microcode": {
-            "0xffffffff": 96
+            "0xffffffff": 64
         },
         "cache_size": {
-            "46080 KB": 64,
-            "512 KB": 32
+            "46080 KB": 64
         },
         "siblings": {
-            "16": 64,
-            "56": 32
+            "16": 64
         },
         "cpu_cores": {
-            "16": 64,
-            "28": 32
+            "16": 64
         },
         "fpu": {
-            "yes": 96
+            "yes": 64
         },
         "fpu_exception": {
-            "yes": 96
+            "yes": 64
         },
         "cpuid_level": {
-            "13": 96
+            "13": 64
         },
         "wp": {
-            "yes": 96
+            "yes": 64
         },
         "clflush_size": {
-            "64": 96
+            "64": 64
         },
         "cache_alignment": {
-            "64": 96
+            "64": 64
         },
         "address_sizes": {
-            "46 bits physical, 48 bits virtual": 64,
-            "48 bits physical, 48 bits virtual": 32
-        },
-        "tlb_size": {
-            "2560 4K pages": 32
+            "46 bits physical, 48 bits virtual": 64
         }
     },
     "lscpu": {
         "architecture": {
-            "x86_64": 96
+            "x86_64": 64
         },
         "cpu_op-mode(s)": {
-            "32-bit, 64-bit": 96
+            "32-bit, 64-bit": 64
         },
         "address_sizes": {
-            "46 bits physical, 48 bits virtual": 64,
-            "48 bits physical, 48 bits virtual": 32
+            "46 bits physical, 48 bits virtual": 64
         },
         "byte_order": {
-            "Little Endian": 96
+            "Little Endian": 64
         },
         "cpu(s)": {
-            "16": 64,
-            "112": 32
+            "16": 64
         },
         "on-line_cpu(s)_list": {
-            "0-15": 64,
-            "0-111": 32
+            "0-15": 64
         },
         "vendor_id": {
-            "GenuineIntel": 64,
-            "AuthenticAMD": 32
+            "GenuineIntel": 64
         },
         "model_name": {
-            "Intel(R) Xeon(R) CPU @ 2.30GHz": 64,
-            "AMD EPYC 7B13": 32
+            "Intel(R) Xeon(R) CPU @ 2.30GHz": 64
         },
         "cpu_family": {
-            "6": 64,
-            "25": 32
+            "6": 64
         },
         "model": {
-            "63": 64,
-            "1": 32
+            "63": 64
         },
         "thread(s)_per_core": {
-            "1": 64,
-            "2": 32
+            "1": 64
         },
         "core(s)_per_socket": {
-            "16": 64,
-            "28": 32
+            "16": 64
         },
         "socket(s)": {
-            "1": 64,
-            "2": 32
+            "1": 64
         },
         "stepping": {
-            "0": 96
+            "0": 64
         },
         "bogomips": {
-            "4599.99": 64,
-            "6099.99": 19,
-            "6099.98": 13
+            "4599.99": 64
         },
         "hypervisor_vendor": {
-            "KVM": 96
+            "KVM": 64
         },
         "virtualization_type": {
-            "full": 96
+            "full": 64
         },
         "numa_node(s)": {
-            "1": 64,
-            "2": 32
+            "1": 64
         }
     }
 }
