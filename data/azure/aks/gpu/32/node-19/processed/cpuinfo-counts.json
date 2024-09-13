@@ -1,0 +1,142 @@
+{
+    "vendor_id": {
+        "GenuineIntel": 1
+    },
+    "cpu family": {
+        "6": 1
+    },
+    "model": {
+        "79": 1
+    },
+    "model name": {
+        "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz": 1
+    },
+    "stepping": {
+        "1": 1
+    },
+    "microcode": {
+        "0xffffffff": 1
+    },
+    "cache size": {
+        "51200 KB": 1
+    },
+    "siblings": {
+        "2": 1
+    },
+    "cpu cores": {
+        "1": 1
+    },
+    "fpu": {
+        "yes": 1
+    },
+    "fpu_exception": {
+        "yes": 1
+    },
+    "cpuid level": {
+        "20": 1
+    },
+    "wp": {
+        "yes": 1
+    },
+    "flags": {
+        "fpu": 1,
+        "vme": 1,
+        "de": 1,
+        "pse": 1,
+        "tsc": 1,
+        "msr": 1,
+        "pae": 1,
+        "mce": 1,
+        "cx8": 1,
+        "apic": 1,
+        "sep": 1,
+        "mtrr": 1,
+        "pge": 1,
+        "mca": 1,
+        "cmov": 1,
+        "pat": 1,
+        "pse36": 1,
+        "clflush": 1,
+        "mmx": 1,
+        "fxsr": 1,
+        "sse": 1,
+        "sse2": 1,
+        "ss": 1,
+        "ht": 1,
+        "syscall": 1,
+        "nx": 1,
+        "pdpe1gb": 1,
+        "rdtscp": 1,
+        "lm": 1,
+        "constant_tsc": 1,
+        "rep_good": 1,
+        "nopl": 1,
+        "xtopology": 1,
+        "cpuid": 1,
+        "pni": 1,
+        "pclmulqdq": 1,
+        "vmx": 1,
+        "ssse3": 1,
+        "fma": 1,
+        "cx16": 1,
+        "pcid": 1,
+        "sse4_1": 1,
+        "sse4_2": 1,
+        "movbe": 1,
+        "popcnt": 1,
+        "aes": 1,
+        "xsave": 1,
+        "avx": 1,
+        "f16c": 1,
+        "rdrand": 1,
+        "hypervisor": 1,
+        "lahf_lm": 1,
+        "abm": 1,
+        "3dnowprefetch": 1,
+        "invpcid_single": 1,
+        "pti": 1,
+        "tpr_shadow": 1,
+        "vnmi": 1,
+        "ept": 1,
+        "vpid": 1,
+        "fsgsbase": 1,
+        "bmi1": 1,
+        "hle": 1,
+        "avx2": 1,
+        "smep": 1,
+        "bmi2": 1,
+        "erms": 1,
+        "invpcid": 1,
+        "rtm": 1,
+        "rdseed": 1,
+        "adx": 1,
+        "smap": 1,
+        "xsaveopt": 1,
+        "md_clear": 1
+    },
+    "vmx flags": {
+        "vnmi invvpid tsc_offset vtpr ept vpid": 1
+    },
+    "bugs": {
+        "cpu_meltdown": 1,
+        "spectre_v1": 1,
+        "spectre_v2": 1,
+        "spec_store_bypass": 1,
+        "l1tf": 1,
+        "mds": 1,
+        "swapgs": 1,
+        "taa": 1,
+        "itlb_multihit": 1,
+        "mmio_stale_data": 1,
+        "bhi": 1
+    },
+    "clflush size": {
+        "64": 1
+    },
+    "cache_alignment": {
+        "64": 1
+    },
+    "address sizes": {
+        "46 bits physical, 48 bits virtual": 1
+    }
+}

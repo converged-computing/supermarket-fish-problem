@@ -1,0 +1,112 @@
+{
+    "cat-proc-cpuinfo": {
+        "vendor_id": {
+            "AuthenticAMD": 96
+        },
+        "cpu_family": {
+            "25": 96
+        },
+        "model": {
+            "1": 96
+        },
+        "model_name": {
+            "AMD EPYC 7R13 Processor": 96
+        },
+        "stepping": {
+            "1": 96
+        },
+        "microcode": {
+            "0xa0011d5": 96
+        },
+        "cache_size": {
+            "512 KB": 96
+        },
+        "siblings": {
+            "48": 96
+        },
+        "cpu_cores": {
+            "48": 96
+        },
+        "fpu": {
+            "yes": 96
+        },
+        "fpu_exception": {
+            "yes": 96
+        },
+        "cpuid_level": {
+            "16": 96
+        },
+        "wp": {
+            "yes": 96
+        },
+        "tlb_size": {
+            "2560 4K pages": 96
+        },
+        "clflush_size": {
+            "64": 96
+        },
+        "cache_alignment": {
+            "64": 96
+        },
+        "address_sizes": {
+            "48 bits physical, 48 bits virtual": 96
+        }
+    },
+    "lscpu": {
+        "architecture": {
+            "x86_64": 96
+        },
+        "cpu_op-mode(s)": {
+            "32-bit, 64-bit": 96
+        },
+        "address_sizes": {
+            "48 bits physical, 48 bits virtual": 96
+        },
+        "byte_order": {
+            "Little Endian": 96
+        },
+        "cpu(s)": {
+            "96": 96
+        },
+        "on-line_cpu(s)_list": {
+            "0-95": 96
+        },
+        "vendor_id": {
+            "AuthenticAMD": 96
+        },
+        "model_name": {
+            "AMD EPYC 7R13 Processor": 96
+        },
+        "cpu_family": {
+            "25": 96
+        },
+        "model": {
+            "1": 96
+        },
+        "thread(s)_per_core": {
+            "1": 96
+        },
+        "core(s)_per_socket": {
+            "48": 96
+        },
+        "socket(s)": {
+            "2": 96
+        },
+        "stepping": {
+            "1": 96
+        },
+        "bogomips": {
+            "5299.99": 67,
+            "5300.0": 29
+        },
+        "hypervisor_vendor": {
+            "KVM": 96
+        },
+        "virtualization_type": {
+            "full": 96
+        },
+        "numa_node(s)": {
+            "4": 96
+        }
+    }
+}

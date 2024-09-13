@@ -1,0 +1,146 @@
+{
+    "vendor_id": {
+        "GenuineIntel": 39
+    },
+    "cpu family": {
+        "6": 39
+    },
+    "model": {
+        "85": 39
+    },
+    "model name": {
+        "Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz": 39
+    },
+    "stepping": {
+        "4": 39
+    },
+    "microcode": {
+        "0xffffffff": 39
+    },
+    "cache size": {
+        "33792 KB": 39
+    },
+    "siblings": {
+        "20": 39
+    },
+    "cpu cores": {
+        "20": 39
+    },
+    "fpu": {
+        "yes": 39
+    },
+    "fpu_exception": {
+        "yes": 39
+    },
+    "cpuid level": {
+        "21": 39
+    },
+    "wp": {
+        "yes": 39
+    },
+    "flags": {
+        "fpu": 39,
+        "vme": 39,
+        "de": 39,
+        "pse": 39,
+        "tsc": 39,
+        "msr": 39,
+        "pae": 39,
+        "mce": 39,
+        "cx8": 39,
+        "apic": 39,
+        "sep": 39,
+        "mtrr": 39,
+        "pge": 39,
+        "mca": 39,
+        "cmov": 39,
+        "pat": 39,
+        "pse36": 39,
+        "clflush": 39,
+        "mmx": 39,
+        "fxsr": 39,
+        "sse": 39,
+        "sse2": 39,
+        "ss": 39,
+        "ht": 39,
+        "syscall": 39,
+        "nx": 39,
+        "pdpe1gb": 39,
+        "rdtscp": 39,
+        "lm": 39,
+        "constant_tsc": 39,
+        "rep_good": 39,
+        "nopl": 39,
+        "xtopology": 39,
+        "cpuid": 39,
+        "pni": 39,
+        "pclmulqdq": 39,
+        "ssse3": 39,
+        "fma": 39,
+        "cx16": 39,
+        "pcid": 39,
+        "sse4_1": 39,
+        "sse4_2": 39,
+        "movbe": 39,
+        "popcnt": 39,
+        "aes": 39,
+        "xsave": 39,
+        "avx": 39,
+        "f16c": 39,
+        "rdrand": 39,
+        "hypervisor": 39,
+        "lahf_lm": 39,
+        "abm": 39,
+        "3dnowprefetch": 39,
+        "invpcid_single": 39,
+        "pti": 39,
+        "fsgsbase": 39,
+        "bmi1": 39,
+        "hle": 39,
+        "avx2": 39,
+        "smep": 39,
+        "bmi2": 39,
+        "erms": 39,
+        "invpcid": 39,
+        "rtm": 39,
+        "avx512f": 39,
+        "avx512dq": 39,
+        "rdseed": 39,
+        "adx": 39,
+        "smap": 39,
+        "clflushopt": 39,
+        "clwb": 39,
+        "avx512cd": 39,
+        "avx512bw": 39,
+        "avx512vl": 39,
+        "xsaveopt": 39,
+        "xsavec": 39,
+        "xgetbv1": 39,
+        "xsaves": 39,
+        "md_clear": 39,
+        "arch_capabilities": 39
+    },
+    "bugs": {
+        "cpu_meltdown": 39,
+        "spectre_v1": 39,
+        "spectre_v2": 39,
+        "spec_store_bypass": 39,
+        "l1tf": 39,
+        "mds": 39,
+        "swapgs": 39,
+        "taa": 39,
+        "mmio_stale_data": 39,
+        "retbleed": 39,
+        "gds": 39,
+        "bhi": 39
+    },
+    "clflush size": {
+        "64": 39
+    },
+    "cache_alignment": {
+        "64": 39
+    },
+    "address sizes": {
+        "46 bits physical, 48 bits virtual": 39
+    }
+}

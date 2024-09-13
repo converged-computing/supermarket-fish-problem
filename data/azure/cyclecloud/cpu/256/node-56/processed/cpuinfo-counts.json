@@ -1,0 +1,155 @@
+{
+    "vendor_id": {
+        "AuthenticAMD": 95
+    },
+    "cpu family": {
+        "25": 95
+    },
+    "model": {
+        "1": 95
+    },
+    "model name": {
+        "AMD EPYC 7V73X 64-Core Processor": 95
+    },
+    "stepping": {
+        "2": 95
+    },
+    "microcode": {
+        "0xffffffff": 95
+    },
+    "cache size": {
+        "512 KB": 95
+    },
+    "siblings": {
+        "48": 95
+    },
+    "cpu cores": {
+        "48": 95
+    },
+    "fpu": {
+        "yes": 95
+    },
+    "fpu_exception": {
+        "yes": 95
+    },
+    "cpuid level": {
+        "13": 95
+    },
+    "wp": {
+        "yes": 95
+    },
+    "flags": {
+        "fpu": 95,
+        "vme": 95,
+        "de": 95,
+        "pse": 95,
+        "tsc": 95,
+        "msr": 95,
+        "pae": 95,
+        "mce": 95,
+        "cx8": 95,
+        "apic": 95,
+        "sep": 95,
+        "mtrr": 95,
+        "pge": 95,
+        "mca": 95,
+        "cmov": 95,
+        "pat": 95,
+        "pse36": 95,
+        "clflush": 95,
+        "mmx": 95,
+        "fxsr": 95,
+        "sse": 95,
+        "sse2": 95,
+        "ht": 95,
+        "syscall": 95,
+        "nx": 95,
+        "mmxext": 95,
+        "fxsr_opt": 95,
+        "pdpe1gb": 95,
+        "rdtscp": 95,
+        "lm": 95,
+        "constant_tsc": 95,
+        "rep_good": 95,
+        "nopl": 95,
+        "tsc_reliable": 95,
+        "nonstop_tsc": 95,
+        "cpuid": 95,
+        "extd_apicid": 95,
+        "aperfmperf": 95,
+        "pni": 95,
+        "pclmulqdq": 95,
+        "ssse3": 95,
+        "fma": 95,
+        "cx16": 95,
+        "pcid": 95,
+        "sse4_1": 95,
+        "sse4_2": 95,
+        "movbe": 95,
+        "popcnt": 95,
+        "aes": 95,
+        "xsave": 95,
+        "avx": 95,
+        "f16c": 95,
+        "rdrand": 95,
+        "hypervisor": 95,
+        "lahf_lm": 95,
+        "cmp_legacy": 95,
+        "cr8_legacy": 95,
+        "abm": 95,
+        "sse4a": 95,
+        "misalignsse": 95,
+        "3dnowprefetch": 95,
+        "osvw": 95,
+        "topoext": 95,
+        "perfctr_core": 95,
+        "invpcid_single": 95,
+        "vmmcall": 95,
+        "fsgsbase": 95,
+        "bmi1": 95,
+        "avx2": 95,
+        "smep": 95,
+        "bmi2": 95,
+        "erms": 95,
+        "invpcid": 95,
+        "rdseed": 95,
+        "adx": 95,
+        "smap": 95,
+        "clflushopt": 95,
+        "clwb": 95,
+        "sha_ni": 95,
+        "xsaveopt": 95,
+        "xsavec": 95,
+        "xgetbv1": 95,
+        "xsaves": 95,
+        "clzero": 95,
+        "xsaveerptr": 95,
+        "rdpru": 95,
+        "arat": 95,
+        "umip": 95,
+        "vaes": 95,
+        "vpclmulqdq": 95,
+        "rdpid": 95,
+        "fsrm": 95
+    },
+    "bugs": {
+        "sysret_ss_attrs": 95,
+        "null_seg": 95,
+        "spectre_v1": 95,
+        "spectre_v2": 95,
+        "spec_store_bypass": 95,
+        "srso": 95
+    },
+    "TLB size": {
+        "2560 4K pages": 95
+    },
+    "clflush size": {
+        "64": 95
+    },
+    "cache_alignment": {
+        "64": 95
+    },
+    "address sizes": {
+        "48 bits physical, 48 bits virtual": 95
+    }
+}
