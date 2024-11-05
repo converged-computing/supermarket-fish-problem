@@ -322,7 +322,7 @@ def plot_sysbench(dfs, outdir):
         env_df = df[df.env_type == env_type]
         for metric in env_df.uid.unique():
             subset = env_df[env_df.uid == metric]
-            colors = sns.color_palette("hls", 16)
+            colors = sns.color_palette("hls", len(subset.experiment.unique()))
             hexcolors = colors.as_hex()
             types = list(subset.experiment.unique())
             palette = collections.OrderedDict()
