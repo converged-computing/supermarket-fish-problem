@@ -85,7 +85,6 @@ def write_file(text, filename):
 
 
 def parse_data(indir, outdir, files):
-
     # Keep a lookup of relative file paths from the root.
     lookup = {}
 

@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
-
-import pandas
 import argparse
+import collections
 import json
 import os
 import re
 
+from matplotlib.ticker import FormatStrFormatter
+import matplotlib.pylab as plt
+import pandas
+import seaborn as sns
+
 here = os.path.dirname(os.path.abspath(__file__))
 root = os.path.dirname(os.path.dirname(here))
+
+sns.set_theme(style="whitegrid", palette="pastel")
 
 
 def get_parser():
@@ -34,6 +40,17 @@ def recursive_find(base, pattern="*.*"):
     """
     for root, dirnames, filenames in os.walk(base):
         for filename in dirnames:
+            if not re.search(pattern, filename):
+                continue
+            yield os.path.join(root, filename)
+
+
+def recursive_find_file(base, pattern="*.*"):
+    """
+    Recursively find and yield files matching a glob pattern.
+    """
+    for root, dirnames, filenames in os.walk(base):
+        for filename in filenames:
             if not re.search(pattern, filename):
                 continue
             yield os.path.join(root, filename)
@@ -90,25 +107,27 @@ def parse_data(indir, outdir, files):
     Parse all input data discovered into output directory.
     """
     # Prepare a pandas data frame that flattens all of the data for a cloud
-    dfs = {}
-    idxs = {}
+    # This will take forever to append, so do a dict that we can parse into data frames
+    dfs = []
     data = {}
     # For each node, write a manifest. We will save the summary manifest to
     # the node directory, and then loop over them to create a table of counts
     # for each environment.
-    for filename in files:
+    total = len(files)
+    for i, filename in enumerate(files):
+        print(f"Parsing {i} of {total}", end="\r")
         parts = filename.replace(indir + os.sep, "").split(os.sep)
+        node = parts[-1]
         prefix = "-".join(parts[0:3])
-        size = parts[3]
+        size = int(parts[3])
+        env_type = parts[2]
+        env_name = parts[1]
+
         # This was just testing
         if "google-compute" in prefix and size == 2:
             continue
 
-        if prefix not in dfs:
-            dfs[prefix] = pandas.DataFrame(
-                columns=["environment", "collection", "key", "node", "value"]
-            )
-            idxs[prefix] = 0
+        if prefix not in data:
             data[prefix] = {}
 
         # We will prepare a summary for each node
@@ -125,14 +144,14 @@ def parse_data(indir, outdir, files):
             x for x in data_files if not re.search("(machine|parsed-data)", x)
         ]
 
-        # Note that I'm skipping hostname
+        hostname = None
         for data_file in data_files:
             if data_file == "cat-proc-cpuinfo":
                 result = parse_cpuinfo(os.path.join(raw_path, data_file), parsed_path)
                 summary[data_file] = result
                 summarize_cpuinfo(data, result, data_file, prefix)
-
-            # TODO these should be plots
+            elif data_file == "hostname":
+                hostname = read_file(os.path.join(raw_path, data_file))
             elif data_file == "sysbench-threads-run":
                 summary[data_file] = parse_sysbench_threads(
                     os.path.join(raw_path, data_file), parsed_path
@@ -161,6 +180,29 @@ def parse_data(indir, outdir, files):
                 summary[data_file] = result
                 summary[data_file + "-processors"] = procs
 
+        # When we get here, we have all data for single machine in summary
+        for metric, items in summary.items():
+            if not metric.startswith("sysbench"):
+                continue
+            for key, value in items.items():
+                # Only add numbers here
+                if isinstance(value, (int, float)):
+                    dfs.append(
+                        {
+                            "env": env_name,
+                            "experiment": prefix,
+                            "size": size,
+                            "collection": metric,
+                            "metric": key,
+                            "node": node,
+                            "value": value,
+                            "env_type": env_type,
+                        }
+                    )
+
+    # Plot sysbench data
+    plot_sysbench(dfs, outdir)
+
     # Next we will want to save this to data for a table
     flat = []
     for environment, result in data.items():
@@ -184,6 +226,131 @@ def parse_data(indir, outdir, files):
         os.makedirs(table_dir)
     save_file = os.path.join(table_dir, "data.json")
     write_json(flat, save_file)
+
+    root = os.path.dirname(outdir)
+    img_outdir = os.path.join(root, "img")
+
+    # Plot select things - first clock speed.
+    # Be consistent about colors and prefixes
+    colors = sns.color_palette("hls", 12)
+    hexcolors = colors.as_hex()
+    colors = {}
+
+    dfs = {}
+    files = list(recursive_find_file(indir, pattern="cpuinfo[.]json"))
+    # google are all the same, aws are all different, azure are mostly different
+    differs = {"aws": 0, "google": 0, "azure": 0}
+    totals = {"aws": 0, "google": 0, "azure": 0}
+    for i, filename in enumerate(files):
+        print(f"Parsing {i} of {total}", end="\r")
+        # ['google', 'gke', 'cpu', '256', 'node-0', 'processed', 'cpuinfo.json']
+        parts = filename.replace(indir + os.sep, "").split(os.sep)
+        prefix = "-".join(parts[0:3])
+        size = int(parts[3])
+        if size not in dfs:
+            dfs[size] = {}
+        if prefix not in dfs[size]:
+            dfs[size][prefix] = []
+        if prefix not in colors:
+            colors[prefix] = hexcolors.pop(0)
+        env_type = parts[2]
+        cpuinfo = json.loads(read_file(filename))
+        values = [x["cpu MHz"] for x in cpuinfo if "cpu MHz" in x]
+        totals[parts[0]] += 1
+        if len(set(values)) > 1:
+            print(
+                f"{prefix} found system with different clock speeds, this should not happen."
+            )
+            differs[parts[0]] += 1
+        dfs[size][prefix] += values
+
+    for size, subset in dfs.items():
+        if size < 32:
+            continue
+        for prefix, values in subset.items():
+            if "cpu" not in prefix:
+                continue
+            print(f"Plotting prefix {prefix}")
+            ax = sns.histplot(
+                values, color=colors[prefix], bins="sturges", alpha=0.5, label=prefix
+            )
+
+        plt.title(f"CPU Clock Speed Across CPU Environments (size {size})")
+        ax.set_xlabel("MHz", fontsize=16)
+        ax.set_ylabel("Count", fontsize=16)
+        plt.tight_layout()
+        plt.legend()
+        path = os.path.join(img_outdir, f"clock-speeds-cpu-size-{size}.png")
+        plt.savefig(path)
+        plt.clf()
+
+    # GPU just one plot
+    for size, subset in dfs.items():
+        for prefix, values in subset.items():
+            if "gpu" not in prefix:
+                continue
+            print(f"Plotting prefix {prefix}")
+            ax = sns.histplot(
+                values, color=colors[prefix], bins="sturges", alpha=0.5, label=prefix
+            )
+
+        plt.title("CPU Clock Speed Across GPU Environments")
+        ax.set_xlabel("MHz", fontsize=16)
+        ax.set_ylabel("Count", fontsize=16)
+        plt.tight_layout()
+        plt.legend()
+        path = os.path.join(img_outdir, "clock-speeds-gpu.png")
+        plt.savefig(path)
+        plt.clf()
+
+
+def plot_sysbench(dfs, outdir):
+    """
+    This was an attempt to parse all the summary data, which was too much :)
+    """
+    # Now parse into data frames we can plot
+    df = pandas.DataFrame(dfs)
+
+    # Save images to another directory
+    root = os.path.dirname(outdir)
+    img_outdir = os.path.join(root, "img")
+    plot_count = 0
+
+    # Create a combined collection and key in case we have duplicates within collections
+    df["uid"] = df["collection"] + "-" + df["metric"]
+    for env_type in df.env_type.unique():
+        env_df = df[df.env_type == env_type]
+        for metric in env_df.uid.unique():
+            subset = env_df[env_df.uid == metric]
+            colors = sns.color_palette("hls", 16)
+            hexcolors = colors.as_hex()
+            types = list(subset.experiment.unique())
+            palette = collections.OrderedDict()
+            for t in types:
+                palette[t] = hexcolors.pop(0)
+
+            # The second case happens sometimes - all values are zero, or the same
+            # There are others that produce empty looking plots that need looking into
+            if (
+                subset.shape[0] == 0
+                or subset.value.sum() == 0
+                or len(subset.value.unique()) == 1
+            ):
+                continue
+            make_plot(
+                subset,
+                title=f"Single Node Benchmark {metric} ({env_type})",
+                ydimension="value",
+                plotname=f"{metric}-{env_type}",
+                xdimension="size",
+                palette=palette,
+                outdir=img_outdir,
+                hue="experiment",
+                xlabel="Size",
+                ylabel=metric,
+                do_round=True,
+            )
+            plot_count += 1
 
 
 def summarize_lscpu(data, items, collector, prefix):
@@ -679,6 +846,65 @@ def parse_sysbench_threads_file(filename, parsed_path):
             data["reads_mib_per_second"] = parse_float(lines.pop(0))
             data["written_mib_per_second"] = parse_float(lines.pop(0))
     return data
+
+
+def make_plot(
+    df,
+    title,
+    ydimension,
+    xdimension,
+    xlabel,
+    ylabel,
+    palette=None,
+    ext="png",
+    plotname="lammps",
+    hue=None,
+    outdir="img",
+    log_scale=False,
+    do_round=False,
+):
+    """
+    Helper function to make common plots.
+    """
+    ext = ext.strip(".")
+    plt.figure(figsize=(12, 6))
+    sns.set_style("dark")
+
+    flierprops = dict(
+        marker=".", markerfacecolor="None", markersize=10, markeredgecolor="black"
+    )
+    ax = sns.boxplot(
+        x=xdimension,
+        y=ydimension,
+        flierprops=flierprops,
+        hue=hue,
+        data=df,
+        # gap=.1,
+        linewidth=0.0,
+        palette=palette,
+        whis=[5, 95],
+        # dodge=False,
+    )
+
+    plt.title(title)
+    print(log_scale)
+    ax.set_xlabel(xlabel, fontsize=16)
+    ax.set_ylabel(ylabel, fontsize=16)
+    ax.set_xticklabels(ax.get_xmajorticklabels(), fontsize=14)
+    ax.set_yticklabels(ax.get_yticks(), fontsize=14)
+    # plt.xticks(rotation=90)
+    if log_scale is True:
+        plt.gca().yaxis.set_major_formatter(
+            plt.ScalarFormatter(useOffset=True, useMathText=True)
+        )
+
+    if do_round is True:
+        ax.yaxis.set_major_formatter(FormatStrFormatter("%.3f"))
+    plt.tight_layout()
+    path = os.path.join(outdir, f"{plotname}.{ext}")
+    plt.savefig(path)
+    plt.clf()
+    return path
 
 
 if __name__ == "__main__":
