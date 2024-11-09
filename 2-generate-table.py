@@ -236,6 +236,38 @@ def parse_data(indir, outdir, files):
     hexcolors = colors.as_hex()
     colors = {}
 
+    # Get current and max values
+    currents = {}
+    maxs = {}
+    files = list(recursive_find_file(indir, pattern="dmidecode[.]json"))
+    for i, filename in enumerate(files):
+        print(f"Parsing {i} of {total}", end="\r")
+        # ['google', 'gke', 'cpu', '256', 'node-0', 'processed', 'cpuinfo.json']
+        parts = filename.replace(indir + os.sep, "").split(os.sep)
+        prefix = "-".join(parts[0:3])
+        size = int(parts[3])
+        if size not in currents:
+            currents[size] = {}
+            maxs[size] = {}
+        if prefix not in currents[size]:
+            currents[size][prefix] = []
+            maxs[size][prefix] = []
+        if prefix not in colors:
+            colors[prefix] = hexcolors.pop(0)
+        env_type = parts[2]
+        info = json.loads(read_file(filename))
+        # Note these are in the format xxxx MHz
+        current_values = [
+            float(v.split(" ")[0])
+            for k, v in info.items()
+            if "current speed" in k.lower()
+        ]
+        max_values = [
+            float(v.split(" ")[0]) for k, v in info.items() if "max speed" in k.lower()
+        ]
+        maxs[size][prefix] += max_values
+        currents[size][prefix] += current_values
+
     dfs = {}
     files = list(recursive_find_file(indir, pattern="cpuinfo[.]json"))
     # google are all the same, aws are all different, azure are mostly different
@@ -302,6 +334,38 @@ def parse_data(indir, outdir, files):
         path = os.path.join(img_outdir, "clock-speeds-gpu.png")
         plt.savefig(path)
         plt.clf()
+
+    # CPU Max - check if they are all the same
+    for size, subset in maxs.items():
+        if size < 32:
+            continue
+        print(f"CPU Size: {size}")
+        for prefix, values in subset.items():
+            if "cpu" not in prefix or not values:
+                continue
+            uniques = " ".join([str(x) for x in set(values)])
+            print(f"  Max speed: {uniques} for {prefix}")
+
+    for size, subset in currents.items():
+        if size < 32:
+            continue
+        print(f"CPU Size: {size}")
+        for prefix, values in subset.items():
+            if "cpu" not in prefix or not values:
+                continue
+            uniques = " ".join([str(x) for x in set(values)])
+            print(f"  Current speed: {uniques} for {prefix}")
+
+    # GPU Max
+    for size, subset in maxs.items():
+        if size < 4:
+            continue
+        print(f"GPU Size: {size}")
+        for prefix, values in subset.items():
+            if "gpu" not in prefix or not values:
+                continue
+            uniques = " ".join([str(x) for x in set(values)])
+            print(f"  Current speed: {uniques} for {prefix}")
 
 
 def plot_sysbench(dfs, outdir):
