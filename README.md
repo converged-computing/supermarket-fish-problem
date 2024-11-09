@@ -77,6 +77,84 @@ We can see that there is a hidden supermarket problem for AWS and clock speed. W
 
 ![web/img/clock-speeds-gpu.png](web/img/clock-speeds-gpu.png)
 
+### Max and Current Speeds
+
+#### CPU Speeds
+
+```console
+CPU Size: 32
+  Max speed: 2000.0 for google-gke-cpu
+  Max speed: 3725.0 for aws-eks-cpu
+  Max speed: 3725.0 for aws-parallel-cluster-cpu
+  Max speed: 3525.0 for azure-cyclecloud-cpu
+  Max speed: 3525.0 for azure-aks-cpu
+CPU Size: 64
+  Max speed: 2000.0 for google-gke-cpu
+  Max speed: 3725.0 for aws-eks-cpu
+  Max speed: 3725.0 for aws-parallel-cluster-cpu
+  Max speed: 3525.0 for azure-cyclecloud-cpu
+  Max speed: 3525.0 for azure-aks-cpu
+CPU Size: 128
+  Max speed: 2000.0 for google-gke-cpu
+  Max speed: 3725.0 for aws-eks-cpu
+  Max speed: 3525.0 for azure-cyclecloud-cpu
+  Max speed: 3525.0 for azure-aks-cpu
+CPU Size: 256
+  Max speed: 2000.0 for google-gke-cpu
+  Max speed: 3725.0 for aws-eks-cpu
+  Max speed: 3525.0 for azure-cyclecloud-cpu
+  Max speed: 3525.0 for azure-aks-cpu
+```
+```console
+CPU Size: 32
+  Current speed: 2000.0 for google-gke-cpu
+  Current speed: 2650.0 for aws-eks-cpu
+  Current speed: 2650.0 for aws-parallel-cluster-cpu
+  Current speed: 1850.0 for azure-cyclecloud-cpu
+  Current speed: 1850.0 for azure-aks-cpu
+CPU Size: 64
+  Current speed: 2000.0 for google-gke-cpu
+  Current speed: 2650.0 for aws-eks-cpu
+  Current speed: 2650.0 for aws-parallel-cluster-cpu
+  Current speed: 1850.0 for azure-cyclecloud-cpu
+  Current speed: 1850.0 for azure-aks-cpu
+CPU Size: 128
+  Current speed: 2000.0 for google-gke-cpu
+  Current speed: 2650.0 for aws-eks-cpu
+  Current speed: 1850.0 for azure-cyclecloud-cpu
+  Current speed: 1850.0 for azure-aks-cpu
+CPU Size: 256
+  Current speed: 2000.0 for google-gke-cpu
+  Current speed: 2650.0 for aws-eks-cpu
+  Current speed: 1850.0 for azure-cyclecloud-cpu
+  Current speed: 1850.0 for azure-aks-cpu
+```
+#### GPU Speeds
+
+```console
+GPU Size: 4
+  Current speed: 2000.0 for google-gke-gpu
+  Current speed: 2000.0 for google-compute-engine-gpu
+  Current speed: 3700.0 for azure-cyclecloud-gpu
+  Current speed: 3700.0 for azure-aks-gpu
+GPU Size: 8
+  Current speed: 2000.0 for google-gke-gpu
+  Current speed: 2000.0 for google-compute-engine-gpu
+  Current speed: 3500.0 for aws-eks-gpu
+  Current speed: 3700.0 for azure-cyclecloud-gpu
+  Current speed: 3700.0 for azure-aks-gpu
+GPU Size: 16
+  Current speed: 2000.0 for google-gke-gpu
+  Current speed: 2000.0 for google-compute-engine-gpu
+  Current speed: 3500.0 for aws-eks-gpu
+  Current speed: 3700.0 for azure-cyclecloud-gpu
+GPU Size: 32
+  Current speed: 2000.0 for google-gke-gpu
+  Current speed: 2000.0 for google-compute-engine-gpu
+  Current speed: 3700.0 for azure-cyclecloud-gpu
+  Current speed: 3700.0 2300.0 for azure-aks-gpu
+```
+
 ### Sysbench Plots
 
 ![web/img/sysbench-cpu-run-cpu_speed_events_per_second-cpu.png](web/img/sysbench-cpu-run-cpu_speed_events_per_second-cpu.png)
