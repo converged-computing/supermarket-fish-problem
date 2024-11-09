@@ -365,6 +365,16 @@ def parse_data(indir, outdir, files):
             if "gpu" not in prefix or not values:
                 continue
             uniques = " ".join([str(x) for x in set(values)])
+            print(f"  Max speed: {uniques} for {prefix}")
+
+    for size, subset in currents.items():
+        if size < 4:
+            continue
+        print(f"GPU Size: {size}")
+        for prefix, values in subset.items():
+            if "gpu" not in prefix or not values:
+                continue
+            uniques = " ".join([str(x) for x in set(values)])
             print(f"  Current speed: {uniques} for {prefix}")
 
 

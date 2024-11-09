@@ -133,26 +133,49 @@ CPU Size: 256
 
 ```console
 GPU Size: 4
+  Max speed: 2000.0 for google-gke-gpu
+  Max speed: 2000.0 for google-compute-engine-gpu
+  Max speed: 3700.0 for azure-cyclecloud-gpu
+  Max speed: 3700.0 for azure-aks-gpu
+GPU Size: 8
+  Max speed: 2000.0 for google-gke-gpu
+  Max speed: 2000.0 for google-compute-engine-gpu
+  Max speed: 3500.0 for aws-eks-gpu
+  Max speed: 3700.0 for azure-cyclecloud-gpu
+  Max speed: 3700.0 for azure-aks-gpu
+GPU Size: 16
+  Max speed: 2000.0 for google-gke-gpu
+  Max speed: 2000.0 for google-compute-engine-gpu
+  Max speed: 3500.0 for aws-eks-gpu
+  Max speed: 3700.0 for azure-cyclecloud-gpu
+GPU Size: 32
+  Max speed: 2000.0 for google-gke-gpu
+  Max speed: 2000.0 for google-compute-engine-gpu
+  Max speed: 3700.0 for azure-cyclecloud-gpu
+  Max speed: 3700.0 2300.0 for azure-aks-gpu
+```
+```
+GPU Size: 4
   Current speed: 2000.0 for google-gke-gpu
   Current speed: 2000.0 for google-compute-engine-gpu
-  Current speed: 3700.0 for azure-cyclecloud-gpu
-  Current speed: 3700.0 for azure-aks-gpu
+  Current speed: 2700.0 for azure-cyclecloud-gpu
+  Current speed: 2700.0 for azure-aks-gpu
 GPU Size: 8
   Current speed: 2000.0 for google-gke-gpu
   Current speed: 2000.0 for google-compute-engine-gpu
-  Current speed: 3500.0 for aws-eks-gpu
-  Current speed: 3700.0 for azure-cyclecloud-gpu
-  Current speed: 3700.0 for azure-aks-gpu
+  Current speed: 2500.0 for aws-eks-gpu
+  Current speed: 2700.0 for azure-cyclecloud-gpu
+  Current speed: 2700.0 for azure-aks-gpu
 GPU Size: 16
   Current speed: 2000.0 for google-gke-gpu
   Current speed: 2000.0 for google-compute-engine-gpu
-  Current speed: 3500.0 for aws-eks-gpu
-  Current speed: 3700.0 for azure-cyclecloud-gpu
+  Current speed: 2500.0 for aws-eks-gpu
+  Current speed: 2700.0 for azure-cyclecloud-gpu
 GPU Size: 32
   Current speed: 2000.0 for google-gke-gpu
   Current speed: 2000.0 for google-compute-engine-gpu
-  Current speed: 3700.0 for azure-cyclecloud-gpu
-  Current speed: 3700.0 2300.0 for azure-aks-gpu
+  Current speed: 2700.0 for azure-cyclecloud-gpu
+  Current speed: 2700.0 2300.0 for azure-aks-gpu
 ```
 
 ### Sysbench Plots
